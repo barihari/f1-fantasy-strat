@@ -246,9 +246,9 @@ export default function ChatInterface() {
           <input
             ref={fileInputRef}
             type="file"
-            accept="image/png,image/jpeg,image/heic,image/webp"
+            accept="image/*"
             onChange={handleScreenshot}
-            className="hidden"
+            style={{ position: "absolute", left: "-9999px" }}
             id="screenshot-input"
           />
           <label
