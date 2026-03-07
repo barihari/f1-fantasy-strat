@@ -1,176 +1,247 @@
-# Race Brief: Mexico GP (Round 20)
+# F1 Fantasy Race Brief: Mexican GP
 
-**Circuit:** Autodromo Hermanos Rodriguez, Mexico City  
-**Date:** Oct 30-Nov 1, 2026  
-**Sprint Weekend:** No  
-**Overtake Tier:** Elite (60+ overtakes expected)
+**Race 20 — Mexico City (Oct 30-Nov 1, 2024)**
 
 ---
 
-## Circuit Overview
+## Executive Summary
 
-Mexico City presents the **highest overtake opportunity on the 2026 calendar**. The thin air at 2,240m altitude reduces downforce effectiveness and engine cooling efficiency, creating a unique racing environment that favors brave overtaking moves and punishes conservative racing.
+The Mexican GP presents the **best overtaking opportunity of the season** with elite-tier overtake numbers (60+ passes historically). This is a prime scoring weekend for position-gain hunters and 2X Boost deployment on aggressive drivers. The thin air at 2,240m elevation creates unique challenges that favor certain teams and driving styles.
 
-### Key Circuit Characteristics
-- **Long main straight** (1.2km) with DRS detection zones
-- **Thin air effects:** ~25% less downforce, engines run hotter
-- **Multiple overtaking zones:** Turn 1 complex, Turn 4, Stadium section
-- **Historical average:** 60+ overtakes per race (highest on calendar)
-- **Weather risk:** Low (dry season)
+**Key Strategic Focus:** Maximize exposure to drivers who can capitalize on the exceptional overtaking opportunities while managing the altitude-related performance variables.
 
 ---
 
-## 2026 Active Aero Impact
+## Circuit Profile: Autodromo Hermanos Rodriguez
 
-With every car having X-Mode (low-drag) available on every straight regardless of proximity, Mexico's long straights become even more potent for overtaking. The Elite overtake tier may see **70+ overtakes** in 2026 due to:
-- Active aero reducing straight-line disadvantages
-- Overtake Mode (within 1s) providing extra energy for actual passes
-- Reduced overall downforce making following cars more competitive
+- **Type:** Permanent circuit
+- **Overtake Tier:** Elite (highest on calendar)
+- **Sprint Weekend:** No
+- **Weather Risk:** Low (dry, mild temperatures)
+- **Elevation:** 2,240m above sea level
+- **Key Characteristics:** Long main straight (1.2km), reduced downforce due to thin air, engine cooling challenges
 
----
-
-## Strategic Implications
-
-### For Drivers
-**Value picks starting P8-P15 have massive scoring upside.** A mid-grid driver can realistically gain 5-8 positions while scoring 8-12 overtake bonuses.
-
-**Premium drivers benefit too** — even frontrunners typically gain 2-4 positions from pit strategy and on-track moves, adding 12-16 bonus points to their race result.
-
-### For 2X Boost Assignment
-**Prioritize overtaking ability over pure pace.** A driver starting P6 with strong racecraft may outscore a faster driver starting P3 who struggles in traffic.
-
-### For Constructors
-Both-driver teams with strong race pace (not just qualifying) will dominate. Pitstop strategy becomes crucial — teams that can undercut/overcut effectively will create position-gain opportunities.
+### Historical Overtake Data
+- **Average overtakes:** 60+ per race
+- **DRS zones:** 3 (main straight, back straight, stadium section)
+- **Position change hotspots:** Turn 1, Turn 4 hairpin, main straight
+- **Safety car frequency:** Medium (stadium section incidents)
 
 ---
 
-## Current Team Analysis
+## 2026 Regulation Impact Assessment
 
-### Projected Performance
+### Active Aerodynamics Effect
+With all cars having access to X-Mode (low drag) on straights regardless of proximity, the already exceptional overtaking at Mexico should increase further. The long main straight combined with universal drag reduction creates multiple overtaking opportunities per lap.
 
-| Asset | Expected Role | Overtake Potential | Risk Level |
-|-------|---------------|-------------------|------------|
-| **Leclerc (2X)** | Elite scorer, podium contender | High — Ferrari's straight-line speed | Low |
-| **Hadjar** | Mid-pack battler | Medium-High — if Red Bull PU delivers | Medium |
-| **Sainz** | Consistent points scorer | High — Williams' drag efficiency | Low |
-| **Bearman** | Value overtaker | Very High — mid-grid start likely | Low |
-| **Hulkenberg** | Veteran racecraft | High — experience in traffic | Medium |
-| **Ferrari (Constructor)** | Elite performance expected | Both drivers should gain positions | Low |
-| **Haas (Constructor)** | Value overperformer | Historically strong at Mexico | Low |
+### Energy Management Implications
+The thin air reduces aerodynamic load, potentially allowing teams to run higher electrical deployment without overheating concerns. Teams with superior battery management will have a significant advantage on the long straights.
 
-### Team Strengths at Mexico
-- **4/7 assets** on Ferrari PU — historically strong at Mexico
-- **Elite overtake tier favors our value picks** — Bearman, Hulkenberg, Sainz all positioned for position gains
-- **No Honda exposure** — altitude affects engine cooling; Honda's reliability issues amplified here
-
-### Potential Concerns
-- **Hadjar unproven** — Red Bull second seat historically struggles; altitude adds pressure
-- **No Verstappen** — he's dominated 3 of last 4 Mexico races; missing his ceiling
+### Altitude-Specific Factors
+- **Reduced engine power:** ~10% power loss due to thin air affects all power units
+- **Cooling challenges:** Radiator efficiency reduced, engine temperatures critical
+- **Tire degradation:** Different thermal characteristics at altitude
+- **Driver physiological impact:** Increased fatigue, requires superior fitness
 
 ---
 
-## Phase Assessment
+## Power Unit Analysis
 
-**Phase 2: Points Maximization**  
-At Race 20, value building is complete. Focus entirely on weekly score maximization.
+### Expected Performance Ranking at Altitude
 
-### Budget Utilization
-With $5.4M remaining, consider final roster optimization:
-- **Hold current lineup** if form is strong
-- **Upgrade Hulkenberg** to a premium if budget accumulated through price gains
-- **Banking transfers** no longer matters — use all available transfers for optimal lineup
+1. **Mercedes PU** (Mercedes, McLaren, Williams, Alpine)
+   - Historically strong at altitude circuits
+   - Superior cooling systems
+   - **Teams to target:** McLaren, Williams
+
+2. **Ferrari PU** (Ferrari, Haas, Cadillac)
+   - Good altitude performance
+   - Solid cooling package
+   - **Teams to target:** Ferrari, Haas
+
+3. **Red Bull/Ford PU** (Red Bull, Racing Bulls)
+   - Unknown at altitude (new PU)
+   - Verstappen historically dominant here regardless
+   - **Risk:** First altitude test for new power unit
+
+4. **Honda PU** (Aston Martin)
+   - **AVOID:** Already struggling with reliability
+   - Altitude will worsen cooling issues
+   - High DNF risk
+
+5. **Audi PU** (Audi)
+   - Complete unknown
+   - New manufacturer at challenging circuit
+   - **Very high risk**
 
 ---
 
-## Chip Strategy
+## Driver Recommendations
 
-### Remaining Chip Options
-Review which chips haven't been deployed by R20:
+### Premium Targets ($20M+)
 
-**If 3X Boost unused:** Mexico is NOT ideal — save for Singapore Sprint (R18) if available  
-**If Limitless unused:** NOT recommended — Elite overtakes favor balanced lineup over top-heavy  
-**If Final Fix unused:** Save for Azerbaijan (R17) or Singapore (R18)  
-**If No Negative unused:** Low crash risk at Mexico — save for street circuits  
+**Max Verstappen ($27.7M) — 2X BOOST PRIORITY**
+- 3 wins in last 4 Mexican GPs
+- Transcends power unit limitations
+- Elite overtaker when starting mid-pack
+- **Ownership:** 26% (differential opportunity)
 
-**Recommendation: NO CHIP** — Elite overtake circuits reward balanced lineups, not chip deployment
+**Lando Norris ($27.2M)**
+- McLaren historically strong at altitude
+- Excellent overtaker (2025 overtake leader)
+- Mercedes PU advantage
+- **Risk:** High price, medium ownership
+
+**Oscar Piastri ($25.5M)**
+- Same McLaren/Mercedes advantages as Norris
+- Strong wheel-to-wheel racer
+- Better value than Norris at current prices
+
+### Value Targets ($6-15M)
+
+**Nico Hulkenberg ($6.8M) — PHASE 1 VALUE KING**
+- Overtake specialist (106 of 147 pts from overtakes in 2025)
+- Consistent point scorer at altitude circuits
+- At $6.8M, needs only 2.7 PPM for +$0.6M price gain
+- **Risk:** Audi PU unknown at altitude
+
+**Isack Hadjar ($15.1M)**
+- Red Bull second seat historically performs well here
+- New power unit could surprise
+- Mid-tier price allows for +$0.6M gains if he delivers
+- **Risk:** Unproven, Red Bull curse on second driver
+
+**Carlos Sainz ($11.8M)**
+- Williams-Mercedes combination
+- Excellent racecraft and overtaking ability
+- Historically strong in Mexico
+- **Safe mid-range pick**
+
+### Avoid Zone
+
+**All Aston Martin drivers** — Honda PU reliability crisis worsens at altitude
+**Franco Colapinto ($6.2M)** — Alpine likely to struggle, worst 2025 PPM on grid
+
+---
+
+## Constructor Analysis
+
+### Premium Constructors
+
+**McLaren ($28.9M)**
+- Both drivers excellent overtakers
+- Mercedes PU advantage
+- Fast pit stops (elite tier)
+- **Best overall constructor for Mexico**
+
+**Ferrari ($23.3M) — RECOMMENDED**
+- Strong altitude performance historically
+- Leclerc + Hamilton both capable of big scoring
+- $5M cheaper than McLaren
+- Both-in-Q3 capability
+
+### Value Constructors
+
+**Haas ($7.4M) — PHASE 1 LOCK**
+- Ferrari power unit
+- Ocon + Bearman both scored well in similar conditions
+- Led grid in total overtakes in 2025
+- Needs only 3.0 PPM for maximum price gain
+
+**Williams ($12.0M)**
+- Mercedes PU advantage
+- Albon + Sainz reliable point scorers
+- Both drivers strong in wheel-to-wheel combat
+
+---
+
+## Chip Strategy Considerations
+
+### 2X Boost Deployment
+**Primary target:** Verstappen or Piastri
+- Mexico's elite overtake count makes the 2X multiplier extremely valuable
+- Deploy on your most aggressive overtaker, not just best qualifier
+- Sprint weekend in 2 rounds (Singapore R18) — save 3X Boost for that
+
+### Other Chips
+- **No Negative:** Not recommended (low DNF track historically)
+- **Limitless:** Save for Monaco (R8) or low-overtake circuits
+- **Final Fix:** Save for street circuits with crash risk
 
 ---
 
 ## Weather & Session Strategy
 
-### Practice Sessions Analysis
-- **FP1/FP2:** Focus on long-run pace in thin air conditions
-- **Key metrics:** Tire degradation rates, engine cooling performance
-- **Red flags:** Any overheating issues (Honda/Audi PU risk)
+### Friday Practice Intelligence
+- **FP1:** Focus on altitude adaptation and cooling solutions
+- **FP2:** Long-run pace more critical than qualifying sims
+- Monitor engine temperature readings across teams
+- Watch for altitude-related mechanical issues
 
-### Race Day Factors
-- **Start temperature:** Cool morning aids engine performance
-- **Tire strategy:** Likely 1-stop due to long pit lane
-- **Safety car probability:** Medium (turn 1 incidents common)
-
----
-
-## Transfer Considerations
-
-### Hold vs. Transfer Decision Matrix
-
-| Asset | Hold Signal | Transfer Signal |
-|-------|-------------|-----------------|
-| Leclerc | Ferrari form strong, Mexico specialist | PU issues, poor FP pace |
-| Hadjar | Red Bull competitive in practice | Overheating issues, struggling vs. Verstappen |
-| Sainz | Williams strong straight-line pace | Car balance issues in thin air |
-| Bearman/Hulkenberg | Both showing Mexico form | Either showing poor race pace |
-| Constructors | Both Ferrari PU teams strong | Reliability concerns emerge |
-
-### Watchlist Targets
-If transfers needed:
-- **Verstappen** — Mexico dominant but $27.7M limits budget
-- **Norris/Piastri** — McLaren's efficiency may suit altitude
-- **Any Mercedes PU drivers** — power advantage amplified in thin air
+### Qualifying Expectations
+- Grid position less critical than usual due to elite overtake tier
+- Focus on race pace over Saturday performance
+- Expect some grid penalties (engine cooling prep)
 
 ---
 
-## Expected Scoring Ranges
+## Transfer Recommendations
 
-### Conservative Scenario (Bottom 25%)
-- **Leclerc (2X):** 30 pts → 60 boosted
-- **Other 4 drivers:** 8-12 pts each = 40 pts
-- **Constructors:** 25-30 pts each = 55 pts
-- **Total:** ~155 pts
+### High-Priority Moves (Use free transfers)
 
-### Target Scenario (Top 25%)
-- **Leclerc (2X):** 45 pts → 90 boosted
-- **Other 4 drivers:** 12-18 pts each = 60 pts
-- **Constructors:** 35-45 pts each = 80 pts
-- **Total:** ~230 pts
+**IN:**
+- Verstappen (2X Boost target)
+- Hulkenberg (value + overtake specialist)
+- Haas constructor (elite overtakes + Ferrari PU)
 
-### Elite Scenario (Top 5%)
-- **Leclerc (2X):** 55+ pts → 110+ boosted
-- **Other 4 drivers:** 18-25 pts each = 85 pts
-- **Constructors:** 45-55 pts each = 100 pts
-- **Total:** ~295+ pts
+**OUT:**
+- Any Aston Martin assets
+- Drivers on teams with cooling-prone power units
+- Pure qualifiers without overtaking ability
 
-The Elite tier overtake bonus makes 250+ point weekends achievable with the right combination of position gains and race results.
+### Banking Transfers
+If your current lineup is Mexico-suitable, bank transfers for post-race price changes and the final phase push.
 
 ---
 
-## Final Recommendations
+## Risk Assessment
 
-### Lineup Decision
-**HOLD current team** — perfectly positioned for Elite overtake circuit
+### High Risk
+- **Aston Martin assets:** Honda PU + altitude = disaster formula
+- **New power unit reliability:** Red Bull/Ford and Audi unknown at altitude
+- **Overheating-prone cars:** Monitor FP1/FP2 for temperature warnings
 
-### 2X Boost Placement
-**Keep on Leclerc** — Ferrari PU + Mexico track record + premium driver ceiling
+### Medium Risk
+- **Driver fitness levels:** Altitude affects less-fit drivers more
+- **Safety car timing:** Can bunch up field and create more overtakes
 
-### Transfer Strategy
-**Use 0-1 transfers** — only if FP1/FP2 reveals clear issues
+### Low Risk
+- **Weather disruption:** Historically stable conditions
+- **Track incidents:** Wide circuit, good run-off areas
 
-### Chip Strategy
-**Save remaining chips** — Mexico rewards balanced teams, not concentrated firepower
+---
 
-### Success Metrics
-- **Target:** 200+ points (achievable with position gains)
-- **Minimum:** 150+ points (conservative floor)
-- **Ceiling:** 280+ points (if everything aligns)
+## Expected Scoring Patterns
 
-Mexico's Elite overtake tier gives this value-heavy lineup massive upside. Trust the process and let the circuit's natural characteristics work in your favor.
+### High Scorers
+- Aggressive overtakers starting P6-P12 (maximum position gain potential)
+- Drivers on Mercedes/Ferrari power units
+- Constructors with both drivers capable of points (pitstop bonuses stack with overtake bonuses)
+
+### Potential Disappointments
+- Pure qualifiers who can't overtake
+- Aston Martin assets (reliability)
+- Drivers struggling with altitude fitness
+
+---
+
+## Key Reminders
+
+1. **Elite overtake tier = prioritize position-gain scorers**
+2. **Altitude favors certain power units — Mercedes/Ferrari over others**
+3. **2X Boost on aggressive drivers, not just fast drivers**
+4. **Value picks can score massive points here (Hulkenberg-type profiles)**
+5. **Monitor FP1/FP2 for cooling issues and altitude adaptation**
+6. **This is Phase 2 territory — maximize weekly points over value building**
+
+The Mexican GP rewards aggressive, overtake-focused lineups. With 60+ overtakes expected, this is the weekend to load up on position-gain specialists and deploy your 2X Boost on a proven wheel-to-wheel warrior.
