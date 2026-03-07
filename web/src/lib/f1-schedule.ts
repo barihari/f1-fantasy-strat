@@ -125,24 +125,18 @@ function formatHour(h: number): string {
   return `${h12}:00${period}`;
 }
 
-export function getLockDeadlineDate(
-  race: RaceInfo,
-  sessionTimes: SessionTimes
-): Date | null {
-  if (!sessionTimes.lockDeadline) return null;
+/**
+ * Computes the lock deadline as a UTC Date.
+ * Uses qualiDate (local circuit date) + 3pm local qualifying estimate,
+ * converted to UTC via the circuit timezone offset.
+ */
+export function getLockDeadlineDate(race: RaceInfo): Date | null {
+  const offset = CIRCUIT_TIMEZONE_OFFSETS[race.location] ?? 0;
+  const qualiLocalHour = 15;
 
-  const timeMatch = sessionTimes.lockDeadline.match(/(\d{1,2}):(\d{2})(am|pm)?/i);
-  if (!timeMatch) return null;
+  const baseUtc = new Date(race.qualiDate + "T00:00:00Z");
+  const deadlineMs = baseUtc.getTime() + (qualiLocalHour - offset) * 3600000;
 
-  let hours = parseInt(timeMatch[1]);
-  const minutes = parseInt(timeMatch[2]);
-  const meridiem = (timeMatch[3] || "").toLowerCase();
-
-  if (meridiem === "pm" && hours < 12) hours += 12;
-  if (meridiem === "am" && hours === 12) hours = 0;
-
-  const deadline = new Date(race.qualiDate + "T00:00:00");
-  deadline.setHours(hours, minutes, 0, 0);
-
+  const deadline = new Date(deadlineMs);
   return isNaN(deadline.getTime()) ? null : deadline;
 }

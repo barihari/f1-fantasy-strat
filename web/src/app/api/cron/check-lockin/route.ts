@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getNextRace, getLockInStatus, formatRaceLabel } from "@/lib/race-utils";
-import { fetchSessionTimes, getLockDeadlineDate } from "@/lib/f1-schedule";
+import { getLockDeadlineDate } from "@/lib/f1-schedule";
 import { sendSMS } from "@/lib/email";
 
 export async function POST(req: NextRequest) {
@@ -23,8 +23,7 @@ export async function POST(req: NextRequest) {
     });
   }
 
-  const sessionTimes = await fetchSessionTimes(race);
-  const lockDeadline = getLockDeadlineDate(race, sessionTimes);
+  const lockDeadline = getLockDeadlineDate(race);
 
   if (!lockDeadline) {
     return NextResponse.json({
