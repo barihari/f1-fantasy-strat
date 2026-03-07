@@ -59,6 +59,9 @@ ${knowledgeContext}`;
 
   return `You are an F1 Fantasy strategy consultant. Generate a full race brief for the upcoming race using the knowledge base below. Follow the exact recommendation template format from the consultant protocol.
 
+IMPORTANT: The brief title (H1) MUST use this exact format:
+# Brief — Race ${race.round}: ${race.name}
+
 ## Current Race
 ${formatRaceLabel(race)} at ${race.location} (${race.dates})
 Sprint: ${race.isSprint ? "Yes" : "No"}

@@ -1,4 +1,4 @@
-# F1 Fantasy Race Brief — Round 1: Australian GP
+# Brief — Race 1: Australian GP
 
 **Melbourne (Albert Park) | March 7-8, 2026 | No Sprint**
 
