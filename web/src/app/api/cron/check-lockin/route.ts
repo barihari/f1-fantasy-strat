@@ -37,9 +37,10 @@ export async function POST(req: NextRequest) {
   const hoursUntilLock = msUntilLock / (1000 * 60 * 60);
 
   if (hoursUntilLock <= 2 && hoursUntilLock > 0) {
-    const appUrl = process.env.VERCEL_URL
-      ? `https://${process.env.VERCEL_URL}`
-      : "http://localhost:3000";
+    const appUrl = process.env.APP_URL
+      || (process.env.VERCEL_PROJECT_PRODUCTION_URL
+        ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+        : "http://localhost:3000");
 
     const minutesLeft = Math.round(msUntilLock / (1000 * 60));
     const chatUrl = `${appUrl}/chat`;

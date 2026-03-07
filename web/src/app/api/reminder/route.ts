@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { generateText } from "@/lib/anthropic";
 import { loadKnowledgeBase } from "@/lib/knowledge";
-import { getNextRace, formatRaceLabel, getRaceSlug } from "@/lib/race-utils";
+import { getNextRace, formatRaceLabel, getRaceSlug, getLocationSlug } from "@/lib/race-utils";
 import { buildBriefPrompt } from "@/lib/system-prompt";
 import { fetchSessionTimes } from "@/lib/f1-schedule";
 import { writeFile, readFile } from "@/lib/github";
@@ -32,9 +32,10 @@ export async function POST(req: NextRequest) {
   const sessionTimes = await fetchSessionTimes(race);
   const raceLabel = formatRaceLabel(race);
   const raceSlug = getRaceSlug(race);
-  const appUrl = process.env.VERCEL_URL
-    ? `https://${process.env.VERCEL_URL}`
-    : "http://localhost:3000";
+  const appUrl = process.env.APP_URL
+    || (process.env.VERCEL_PROJECT_PRODUCTION_URL
+      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+      : "http://localhost:3000");
 
   if (type === "tuesday") {
     const briefPrompt = buildBriefPrompt(kb, race, "tuesday");
@@ -47,7 +48,7 @@ export async function POST(req: NextRequest) {
     );
 
     const lockTime = sessionTimes.lockDeadline || "check F1 app";
-    const briefUrl = `${appUrl}/brief/${race.round}`;
+    const briefUrl = `${appUrl}/brief/${getLocationSlug(race)}`;
     const chatUrl = `${appUrl}/chat`;
 
     await sendSMS(`${raceLabel} — Lock by: ${lockTime}`, {
@@ -68,7 +69,7 @@ export async function POST(req: NextRequest) {
   const result = await generateText(fridayPrompt, "Check for changes since Tuesday.");
 
   const lockTime = sessionTimes.lockDeadline || "check F1 app";
-  const briefUrl = `${appUrl}/brief/${race.round}`;
+  const briefUrl = `${appUrl}/brief/${getLocationSlug(race)}`;
   const chatUrl = `${appUrl}/chat`;
 
   if (result.trim() === "NO_CHANGES") {
