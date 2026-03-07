@@ -152,10 +152,17 @@ export function getLockDeadlineDate(
     ? parseInt(parsedDates[2]) + 1
     : parseInt(parsedDates[2]) + 1;
 
-  const timeMatch = sessionTimes.lockDeadline.match(/(\d{1,2}):(\d{2})/);
+  const timeMatch = sessionTimes.lockDeadline.match(/(\d{1,2}):(\d{2})(am|pm)?/i);
   if (!timeMatch) return null;
 
-  const dateStr = `${month} ${dayNum}, ${year} ${timeMatch[1]}:${timeMatch[2]}:00`;
+  let hours = parseInt(timeMatch[1]);
+  const minutes = timeMatch[2];
+  const meridiem = (timeMatch[3] || "").toLowerCase();
+
+  if (meridiem === "pm" && hours < 12) hours += 12;
+  if (meridiem === "am" && hours === 12) hours = 0;
+
+  const dateStr = `${month} ${dayNum}, ${year} ${hours}:${minutes}:00`;
   const date = new Date(dateStr);
   return isNaN(date.getTime()) ? null : date;
 }

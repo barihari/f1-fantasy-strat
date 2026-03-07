@@ -43,8 +43,13 @@ export async function POST(req: NextRequest) {
       : "http://localhost:3000";
 
     const minutesLeft = Math.round(msUntilLock / (1000 * 60));
+    const chatUrl = `${appUrl}/chat`;
     await sendSMS(
-      `${formatRaceLabel(race)} — lock deadline in ${minutesLeft} min. You haven't confirmed changes. Open chat to lock in: ${appUrl}/chat`
+      `${formatRaceLabel(race)} — lock deadline in ${minutesLeft} min! You haven't confirmed changes.`,
+      {
+        clickUrl: chatUrl,
+        actions: [{ label: "Lock In Now", url: chatUrl }],
+      }
     );
 
     return NextResponse.json({

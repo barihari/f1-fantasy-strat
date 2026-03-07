@@ -47,9 +47,16 @@ export async function POST(req: NextRequest) {
     );
 
     const lockTime = sessionTimes.lockDeadline || "check F1 app";
-    const smsText = `${raceLabel} — Lock by: ${lockTime}. Brief: ${appUrl}/brief/${race.round} Chat: ${appUrl}/chat`;
+    const briefUrl = `${appUrl}/brief/${race.round}`;
+    const chatUrl = `${appUrl}/chat`;
 
-    await sendSMS(smsText);
+    await sendSMS(`${raceLabel} — Lock by: ${lockTime}`, {
+      clickUrl: briefUrl,
+      actions: [
+        { label: "View Brief", url: briefUrl },
+        { label: "Open Chat", url: chatUrl },
+      ],
+    });
 
     return NextResponse.json({ sent: true, type, race: raceLabel });
   }
@@ -60,10 +67,20 @@ export async function POST(req: NextRequest) {
   const fridayPrompt = buildBriefPrompt(kb, race, "friday", existingBrief || undefined);
   const result = await generateText(fridayPrompt, "Check for changes since Tuesday.");
 
+  const lockTime = sessionTimes.lockDeadline || "check F1 app";
+  const briefUrl = `${appUrl}/brief/${race.round}`;
+  const chatUrl = `${appUrl}/chat`;
+
   if (result.trim() === "NO_CHANGES") {
-    const lockTime = sessionTimes.lockDeadline || "check F1 app";
     await sendSMS(
-      `${raceLabel} update — no changes, Tuesday plan holds. Lock by: ${lockTime}. Brief: ${appUrl}/brief/${race.round} Chat: ${appUrl}/chat`
+      `${raceLabel} update — no changes, Tuesday plan holds. Lock by: ${lockTime}`,
+      {
+        clickUrl: briefUrl,
+        actions: [
+          { label: "View Brief", url: briefUrl },
+          { label: "Open Chat", url: chatUrl },
+        ],
+      }
     );
   } else {
     const updatedBrief = (existingBrief || "") + "\n\n" + result;
@@ -73,9 +90,15 @@ export async function POST(req: NextRequest) {
       `Friday update: ${raceLabel}`
     );
 
-    const lockTime = sessionTimes.lockDeadline || "check F1 app";
     await sendSMS(
-      `${raceLabel} UPDATE — changes suggested. Lock by: ${lockTime}. Brief: ${appUrl}/brief/${race.round}#changes Chat: ${appUrl}/chat`
+      `${raceLabel} UPDATE — changes suggested. Lock by: ${lockTime}`,
+      {
+        clickUrl: `${briefUrl}#changes`,
+        actions: [
+          { label: "View Changes", url: `${briefUrl}#changes` },
+          { label: "Open Chat", url: chatUrl },
+        ],
+      }
     );
   }
 

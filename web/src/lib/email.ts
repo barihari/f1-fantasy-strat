@@ -1,25 +1,33 @@
-import nodemailer from "nodemailer";
+const NTFY_TOPIC = process.env.NTFY_TOPIC || "f1-fantasy-strat";
 
-function getTransporter() {
-  return nodemailer.createTransport({
-    service: "gmail",
-    auth: {
-      user: process.env.GMAIL_ADDRESS,
-      pass: process.env.GMAIL_APP_PASSWORD,
-    },
-  });
+interface NotifyOptions {
+  clickUrl?: string;
+  actions?: { label: string; url: string }[];
 }
 
-export async function sendSMS(message: string): Promise<void> {
-  const phoneNumber = process.env.PHONE_NUMBER;
-  const gateway = process.env.CARRIER_GATEWAY || "vtext.com";
-  const to = `${phoneNumber}@${gateway}`;
+export async function sendSMS(
+  message: string,
+  options?: NotifyOptions
+): Promise<void> {
+  const headers: Record<string, string> = { Title: "F1 Fantasy" };
 
-  const transporter = getTransporter();
-  await transporter.sendMail({
-    from: process.env.GMAIL_ADDRESS,
-    to,
-    subject: "",
-    text: message,
+  if (options?.clickUrl) {
+    headers["Click"] = options.clickUrl;
+  }
+
+  if (options?.actions?.length) {
+    headers["Actions"] = options.actions
+      .map((a) => `view, ${a.label}, ${a.url}`)
+      .join("; ");
+  }
+
+  const res = await fetch(`https://ntfy.sh/${NTFY_TOPIC}`, {
+    method: "POST",
+    headers,
+    body: message,
   });
+
+  if (!res.ok) {
+    throw new Error(`ntfy.sh error: ${res.status} ${await res.text()}`);
+  }
 }
