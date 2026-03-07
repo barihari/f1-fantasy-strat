@@ -1,188 +1,137 @@
 # Brief — Race 1: Australian GP
 
-**Melbourne (Albert Park) | March 7-8, 2026 | No Sprint**
-
----
-
 ## Executive Summary
 
-**Circuit Profile:** Semi-permanent street circuit, Medium overtake tier (40-45 avg), season opener with regulation reset uncertainty. Conservative strategy recommended until 2026 form is established.
+The 2026 season opener at Melbourne presents **medium overtaking opportunities** on a regulation reset grid where historical data is unreliable. With 2026's active aerodynamics and 50/50 hybrid power split, every assumption from previous seasons must be validated by actual race performance. This race serves as the **first critical data point** for PU supplier competitiveness, energy management capabilities, and the new overtaking tools effectiveness.
 
-**Weather:** March autumn in Melbourne — medium rain risk, check forecast before lock.
+## Circuit Profile: Melbourne — Albert Park
 
-**Strategic Focus:** Data gathering weekend. Prioritize consistent scorers over high-risk plays. Bank transfers for future weeks when form becomes clearer.
+- **Type:** Semi-permanent street circuit
+- **Overtake Tier:** Medium (historically 40-45 overtakes)
+- **Sprint Weekend:** No
+- **Weather Risk:** Medium (March autumn, occasional rain)
+- **Key Features:** Multiple DRS zones historically, elevation changes, wall-lined sections
+- **2026 Intel:** Active aerodynamics on every straight may increase overtaking vs. historical baseline
 
----
+**Strategic Implications:** Balanced circuit rewards both qualifiers and overtakers. Season opener means limited data — prioritize pre-season testing form and PU supplier strength over historical driver-circuit correlations.
 
-## Circuit Analysis
+## Power Unit Supplier Intelligence
 
-### Track Characteristics
-- **Length:** 5.278 km, 58 laps
-- **Overtake Zones:** Multiple DRS zones historically (to be confirmed with 2026 active aero)
-- **Key Features:** Elevation changes, tight street sections, high-speed corners
-- **Historical Avg:** 40-45 overtakes per race
+### Confirmed Competitive
+- **Mercedes PU** (Mercedes, McLaren, Williams, Alpine): FP1/FP2 dominant, compression ratio advantage rumors
+- **Ferrari PU** (Ferrari, Haas, Cadillac): Leclerc fastest in testing, strong race pace signals
 
-### 2026 Regulation Impact
-- **Active aero replaces DRS:** All drivers get X-Mode (low drag) on straights regardless of gap
-- **Energy management crucial:** 50/50 ICE/electric power split makes battery deployment key
-- **Lighter cars:** More volatile starts expected (no MGU-K for first 50m)
-- **Unknown competitive order:** First real test of new regulations
+### Unproven but Promising  
+- **Red Bull/Ford PU** (Red Bull, Racing Bulls): Solid testing but first year of new partnership, race distance unknown
 
-### Weather Forecast
-**Current:** Partly cloudy, 22°C race day. **Rain probability: 20%.** Monitor closer to race weekend — Melbourne autumn weather can change quickly.
+### Crisis Alert
+- **Honda PU** (Aston Martin): Multiple engine failures in testing, **planning early retirements at Australia**
+- **Audi PU** (Audi): New manufacturer, zero F1 experience, total performance unknown
 
----
+## Race-Specific Factors
 
-## Power Unit Supplier Analysis
+### Grid Penalties
+- **Valtteri Bottas:** 5-place grid penalty (gearbox) — creates overtake upside for the Cadillac driver
 
-### Strongest Performers (Testing Data)
-1. **Mercedes PU** (Mercedes, McLaren, Williams, Alpine) — Dominated FP1/FP2 sessions
-2. **Ferrari PU** (Ferrari, Haas, Cadillac) — Leclerc fastest overall in testing
-3. **Red Bull/Ford PU** (Red Bull, Racing Bulls) — Solid but unclear ceiling vs floor
+### Weather Outlook
+- **Dry conditions expected** — eliminates chaos factor, straightforward strategy calls
+- **Temperatures:** Moderate autumn conditions, standard tire degradation expected
 
-### Crisis Zone
-- **Honda PU** (Aston Martin) — Multiple failures in testing, planning early retirements at Australia. **AVOID ALL ASTON ASSETS.**
+### Energy Management Watch
+First race to observe:
+- Which teams effectively deploy Boost Mode for overtaking
+- Which drivers conserve battery effectively for late-race pace
+- How the new Overtake Mode (1-second proximity) impacts passing moves
 
-### Unknown
-- **Audi PU** (Audi) — New manufacturer, minimal data. Hulkenberg provides stability but pace unknown.
+## Team Recommendations
 
----
+### Maintain Current Structure
+Your **Ferrari-heavy value build** aligns perfectly with the available intelligence:
 
-## Key Storylines
+**Drivers:**
+- ✅ **Charles Leclerc ($22.8M, 2X Boost)** — fastest in testing, Ferrari PU advantage, strong Melbourne historical record
+- ✅ **Oliver Bearman ($7.4M)** — same Ferrari PU, Haas showed solid testing pace, value-building target
+- ✅ **Nico Hulkenberg ($6.8M)** — consistent points scorer regardless of car quality, Audi PU risk mitigated by driver skill
+- ✅ **Carlos Sainz ($11.8M)** — Williams-Mercedes combination, strong PU supplier + experienced driver
+- ⚠️ **Isack Hadjar ($15.1M)** — Red Bull second seat historically cursed, but Verstappen effect may elevate team
 
-### 1. Leclerc's Testing Dominance
-Charles Leclerc was fastest overall in pre-season testing. Ferrari appears competitive immediately with 2026 regs. High DOTD potential if he converts testing pace to race performance.
+**Constructors:**
+- ✅ **Ferrari ($23.3M)** — Leclerc + Hamilton, Ferrari PU advantage, testing form
+- ✅ **Haas ($7.4M)** — same Ferrari PU at budget price, both drivers capable of points
 
-### 2. Hadjar's Red Bull Debut
-First race for Isack Hadjar in Red Bull's historically cursed second seat. Will he challenge Verstappen or fade into obscurity like previous Red Bull partners?
+### Transfer Recommendations: HOLD ALL
 
-### 3. Energy Management Learning Curve
-Teams mastering battery deployment will show in the final third of the race. Watch for drivers losing/gaining positions in laps 45-58 as energy strategies play out.
+**Rationale:**
+1. **Ferrari PU exposure is strategic** — 4 of 7 assets benefit if Ferrari delivers on testing pace
+2. **Season opener uncertainty** — one race of data is insufficient to judge any driver/constructor
+3. **Value preservation** — your Tier B picks (Bearman, Hulkenberg, Sainz) need 3+ races to establish PPM trends
+4. **Bank transfers** — save both free transfers for post-Race 1 adjustments once 2026 form is revealed
 
-### 4. Aston Martin Crisis
-Honda engine failures in testing mean planned early retirements. Alonso/Stroll are DNF risks at any moment. The 3% ownership on Stroll confirms nobody wants Aston exposure.
+### 2X Boost Assignment: Leclerc ✅
 
----
+**Correct choice.** Leclerc on pole or front row likely given testing pace. Melbourne suits his driving style, and Ferrari's PU advantage should manifest in both qualifying and race performance.
 
-## Current Team Analysis
+## Chip Strategy
 
-### Strengths
-- **Ferrari PU exposure (4/7 assets):** Your team is built around the testing pace leader
-- **Tier B value structure:** 4 drivers under $15M positioned for +$0.6M gains if they deliver
-- **Budget flexibility:** $5.4M in bank allows post-race adjustments based on actual 2026 form
+### Do NOT Use Any Chip
+- **Too early** — insufficient data on 2026 regulation impact
+- **Season opener volatility** — unpredictable race, save chips for higher-certainty weekends
+- **Phase 1 discipline** — focus on value building, not point maximization
 
-### Risks
-- **Hadjar uncertainty:** $15.1M for an unproven Red Bull second driver
-- **Audi PU exposure:** Hulkenberg on a completely unknown power unit
-- **High Ferrari dependency:** If Ferrari testing pace doesn't translate to races, 4 assets suffer
+### Available Chips (Unused):
+- Wildcard, No Negative (reserve for Phase 1 emergencies)
+- 3X Boost, Limitless, Final Fix (unlock after Race 1 completion)
 
-### 2X Boost Placement
-**Leclerc** is correctly boosted. Fastest in testing, home circuit advantage (Ferrari), and highest ceiling if Ferrari delivers on their pace.
+## Key Monitoring Points
 
----
+### During the Race, Watch For:
+1. **Overtake count** — does the 40-45 historical average hold with active aero?
+2. **Energy management** — which teams have drivers fading in final 15 laps?
+3. **PU reliability** — any Honda failures, Red Bull/Ford issues, Audi struggles?
+4. **Ferrari pace delivery** — does testing translate to race dominance?
 
-## Weekend Strategy
+### Post-Race Analysis Required:
+1. **Recalibration Protocol initiation** — begin updating 2026 baselines
+2. **PPM calculations** for all drivers — establish new performance benchmarks
+3. **Price change predictions** using Budget Builder for Race 2 planning
+4. **Overtake tier validation** — compare actual vs. predicted Melbourne numbers
 
-### Pre-Race Scouting (FP1/FP2)
-**Priority intel to gather:**
+## Risk Assessment
 
-1. **Energy management rankings:** Which teams are strong in final stint vs fading?
-2. **Actual overtake counts:** Does 2026 active aero increase passing vs historical 40-45?
-3. **Ferrari race pace confirmation:** Does testing speed hold over race distance?
-4. **Aston Martin DNF watch:** Any early mechanical issues confirming Honda crisis?
-5. **Surprise pace from value picks:** Which Tier B drivers exceed expectations?
+### Low Risk
+- **Weather disruption** — dry forecast eliminates chaos factor
+- **Ferrari PU reliability** — strong testing record, no mechanical concerns
 
-### Transfer Strategy
-**Recommendation: BANK BOTH FREE TRANSFERS**
+### Medium Risk  
+- **Hadjar performance** — Red Bull second seat historically difficult, but Verstappen mentorship factor
+- **Regulation impact** — active aero may change overtaking patterns vs. historical data
 
-This is a data-gathering weekend. Don't react to one race of 2026 form. Bank transfers for Race 2-3 when patterns emerge.
+### High Risk
+- **Season opener volatility** — first races often produce unexpected results
+- **Audi PU unknown** — Hulkenberg driving skill may not overcome fundamental PU weakness
 
-**Only transfer if:**
-- A driver is confirmed out (injury, car failure)
-- Major grid penalties create obvious overtake opportunities
-- Practice sessions reveal a fundamental team/driver issue
+## Expected Outcome
 
-### Chip Strategy
-**No chips recommended.** Race 1 with regulation reset is too uncertain for chip deployment. Save for clearer opportunities:
+**Team Performance Projection:**
+- **Leclerc (2X):** 15-25 points (30-50 boosted) — podium contention likely
+- **Bearman:** 8-15 points — points finish probable given Haas pace
+- **Sainz:** 6-12 points — Williams-Mercedes should deliver
+- **Hulkenberg:** 2-8 points — depends entirely on Audi PU competitiveness  
+- **Hadjar:** 0-10 points — wild card, could surprise or disappoint
+- **Ferrari Constructor:** 25-40 points — both drivers scoring likely
+- **Haas Constructor:** 15-25 points — value constructor delivering
 
-- 3X Boost unlocks after R1 — target Netherlands Sprint (R14)
-- Limitless — save for Monaco (R8)
-- No Negative — hold for wet/chaotic races
-- Wildcard — use during Phase 1→2 transition (R6-R10)
+**Projected Total:** 85-120 points (strong opening if Ferrari PU delivers)
 
----
+## Next Race Preview
 
-## Lineup Recommendations
+**Round 2: Chinese GP (Shanghai, March 13-15)**
+- **First Sprint weekend** of 2026
+- **High overtake circuit** (50+ historically)
+- **Decision point:** Whether to deploy first power chip or continue value building
 
-### Keep Current Structure
-Your current lineup balances risk/reward appropriately for a regulation reset opener:
-
-| Slot | Current | Alternative | Recommendation |
-|------|---------|-------------|----------------|
-| Driver 1 (2X) | **Leclerc** | Verstappen | **KEEP** — testing leader, lower price |
-| Driver 2 | **Hadjar** | Russell | **KEEP** — wait for R1 data on Red Bull second seat |
-| Driver 3 | **Sainz** | Norris | **KEEP** — Mercedes PU, reasonable price |
-| Driver 4 | **Bearman** | Ocon | **KEEP** — popular but necessary budget enabler |
-| Driver 5 | **Hulkenberg** | Bottas | **KEEP** — veteran consistency over unknown rookie |
-| Constructor 1 | **Ferrari** | McLaren | **KEEP** — testing pace + value vs other premiums |
-| Constructor 2 | **Haas** | Racing Bulls | **KEEP** — proven overtake kings, Ferrari PU |
-
-**No changes recommended.** Your team structure matches the strategic phase (Phase 1 value building) and testing form.
-
----
-
-## Race Day Expectations
-
-### Likely Scoring Scenarios
-
-**Conservative (60-70 pts):** Leclerc P4-P6 (boosted 30+ pts), others score modestly, consistent constructor scoring
-
-**Target (80-90 pts):** Leclerc podium (boosted 50+ pts), value picks deliver overtakes, Ferrari/Haas pitstop bonuses
-
-**Optimistic (100+ pts):** Leclerc wins + DOTD (boosted 70+ pts), Hadjar proves Red Bull seat worth, energy management creates surprise position gains
-
-### Key Variables
-- **Start volatility:** No MGU-K for first 50m = more wheelspin/errors
-- **Energy deployment learning:** Teams figuring out 2026 battery strategy in real-time
-- **Safety cars:** Melbourne street sections create SC probability
-- **Weather:** 20% rain chance could create chaos
+**Preparation:** Monitor Race 1 results, check price predictions on Budget Builder, assess whether Sprint weekend justifies early chip usage (likely too early for 3X Boost).
 
 ---
 
-## Post-Race Action Items
-
-### Immediate (Sunday Evening)
-1. **Log actual overtake counts** vs 40-45 historical baseline
-2. **Record energy management observations** — which teams strong/weak in final stint?
-3. **Note any PU reliability issues** — especially Honda/Audi
-4. **Track price change predictions** via Budget Builder once available
-
-### Monday Analysis
-1. **Compare testing pace vs race results** — which teams/drivers over/underdelivered?
-2. **Identify surprise performers** for potential transfer targets
-3. **Update overtake tier for Melbourne** based on 2026 active aero data
-4. **Plan R2 (China Sprint) strategy** based on R1 learnings
-
-### Transfer Window (Before R2 Lock)
-- **Bank transfers unless clear issues emerge**
-- **Monitor China Sprint practice sessions** (first Sprint data)
-- **Consider Aston Martin exits** if Honda issues continue
-- **Watch for upgrade package announcements**
-
----
-
-## Success Metrics
-
-**Primary Goal:** Finish Race 1 with 70+ points and no major strategic errors
-
-**Secondary Goals:**
-- Gather reliable 2026 regulation performance data
-- Identify which PU suppliers are competitive vs struggling  
-- Begin tracking which Tier B assets are gaining value (+$0.6M path)
-- Bank transfers for future strategic flexibility
-
-**Avoid:** Knee-jerk reactions to single-race results. This is data gathering, not season-defining.
-
----
-
-*Next Brief: Round 2 Chinese GP (Sprint Weekend) — Strategic focus shifts to first Sprint scoring and early 2026 form confirmation.*
+*This brief reflects pre-race analysis. Update all assumptions based on actual Race 1 performance data per the Recalibration Protocol.*
