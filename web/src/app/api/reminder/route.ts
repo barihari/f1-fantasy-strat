@@ -1,7 +1,13 @@
 import { NextRequest, NextResponse } from "next/server";
 import { generateText } from "@/lib/anthropic";
 import { loadKnowledgeBase } from "@/lib/knowledge";
-import { getNextRace, formatRaceLabel, getRaceSlug, getLocationSlug } from "@/lib/race-utils";
+import {
+  getNextRace,
+  formatRaceLabel,
+  getRaceSlug,
+  getLocationSlug,
+  getLockInStatus,
+} from "@/lib/race-utils";
 import { buildBriefPrompt } from "@/lib/system-prompt";
 import { fetchSessionTimes } from "@/lib/f1-schedule";
 import { writeFile, readFile } from "@/lib/github";
@@ -32,6 +38,7 @@ export async function POST(req: NextRequest) {
   const sessionTimes = await fetchSessionTimes(race);
   const raceLabel = formatRaceLabel(race);
   const raceSlug = getRaceSlug(race);
+  const isLockedIn = await getLockInStatus(race.round);
   const appUrl = process.env.APP_URL
     || (process.env.VERCEL_PROJECT_PRODUCTION_URL
       ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
@@ -60,6 +67,15 @@ export async function POST(req: NextRequest) {
     });
 
     return NextResponse.json({ sent: true, type, race: raceLabel });
+  }
+
+  if (isLockedIn) {
+    return NextResponse.json({
+      sent: false,
+      type,
+      race: raceLabel,
+      reason: "Already locked in",
+    });
   }
 
   const existingBrief = await readFile(
