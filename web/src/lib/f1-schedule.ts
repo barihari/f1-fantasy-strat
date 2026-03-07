@@ -104,26 +104,14 @@ function estimateSessionTimes(race: RaceInfo): SessionTimes {
   const etOffset = -5;
   const diff = offset - etOffset;
 
-  if (race.isSprint) {
-    const sprintQualiLocal = 15;
-    const sprintQualiET = sprintQualiLocal - diff;
-    const h = ((sprintQualiET % 24) + 24) % 24;
-    const day = sprintQualiET < 0 ? "Thu" : "Fri";
-    return {
-      lockDeadline: `${day} ${formatHour(h)}`,
-      sprintQualifying: formatHour(h),
-    };
-  }
-
   const qualiLocal = 15;
   const qualiET = qualiLocal - diff;
   const h = ((qualiET % 24) + 24) % 24;
-  const parsedDates = race.dates.match(/(\w+)\s+(\d+)-(\d+)/);
-  const startDay = parsedDates ? parseInt(parsedDates[2]) + 1 : 0;
-  const month = parsedDates ? parsedDates[1] : "";
-  const dayLabel = qualiET < 0
-    ? `Fri ${month} ${startDay}`
-    : `Sat ${month} ${startDay}`;
+
+  const qualiDate = new Date(race.qualiDate + "T12:00:00");
+  const dayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  const dayLabel = `${dayNames[qualiDate.getUTCDay()]} ${monthNames[qualiDate.getUTCMonth()]} ${qualiDate.getUTCDate()}`;
 
   return {
     lockDeadline: `${dayLabel}, ${formatHour(h)} ET`,
@@ -143,26 +131,18 @@ export function getLockDeadlineDate(
 ): Date | null {
   if (!sessionTimes.lockDeadline) return null;
 
-  const year = new Date().getFullYear();
-  const parsedDates = race.dates.match(/(\w+)\s+(\d+)-(\d+)/);
-  if (!parsedDates) return null;
-
-  const month = parsedDates[1];
-  const dayNum = race.isSprint
-    ? parseInt(parsedDates[2]) + 1
-    : parseInt(parsedDates[2]) + 1;
-
   const timeMatch = sessionTimes.lockDeadline.match(/(\d{1,2}):(\d{2})(am|pm)?/i);
   if (!timeMatch) return null;
 
   let hours = parseInt(timeMatch[1]);
-  const minutes = timeMatch[2];
+  const minutes = parseInt(timeMatch[2]);
   const meridiem = (timeMatch[3] || "").toLowerCase();
 
   if (meridiem === "pm" && hours < 12) hours += 12;
   if (meridiem === "am" && hours === 12) hours = 0;
 
-  const dateStr = `${month} ${dayNum}, ${year} ${hours}:${minutes}:00`;
-  const date = new Date(dateStr);
-  return isNaN(date.getTime()) ? null : date;
+  const deadline = new Date(race.qualiDate + "T00:00:00");
+  deadline.setHours(hours, minutes, 0, 0);
+
+  return isNaN(deadline.getTime()) ? null : deadline;
 }
