@@ -23,7 +23,7 @@ export async function POST(req: NextRequest) {
     });
   }
 
-  const lockDeadline = getLockDeadlineDate(race);
+  const lockDeadline = await getLockDeadlineDate(race);
 
   if (!lockDeadline) {
     return NextResponse.json({
