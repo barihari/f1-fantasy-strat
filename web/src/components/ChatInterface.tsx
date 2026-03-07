@@ -246,7 +246,6 @@ export default function ChatInterface() {
           <input
             ref={fileInputRef}
             type="file"
-            accept="image/*"
             onChange={handleScreenshot}
             style={{ position: "absolute", left: "-9999px" }}
             id="screenshot-input"
