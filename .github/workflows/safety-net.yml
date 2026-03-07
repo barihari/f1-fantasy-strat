@@ -1,0 +1,21 @@
+name: Safety Net (Lock-In Check)
+
+on:
+  schedule:
+    # Runs every hour on Thursday, Friday, and Saturday to catch all lock windows
+    - cron: '0 * * * 4'  # Thursday (sprint weekends)
+    - cron: '0 * * * 5'  # Friday
+    - cron: '0 * * * 6'  # Saturday
+  workflow_dispatch: {}
+
+jobs:
+  check-lockin:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Lock-In Status
+        run: |
+          curl -X POST "${{ secrets.VERCEL_APP_URL }}/api/cron/check-lockin" \
+            -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}" \
+            -H "Content-Type: application/json" \
+            --fail-with-body \
+            --max-time 30

@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0a0a0a;
+  --foreground: #e5e5e5;
+  --muted: #737373;
+  --border: #262626;
+  --accent: #f5a623;
+  --confirmed: #22c55e;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-confirmed: var(--confirmed);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans, Arial, Helvetica, sans-serif);
+}
+
+.changes-highlight {
+  background: rgba(245, 166, 35, 0.15);
+  border-left: 3px solid var(--accent);
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 4px;
+}
+
+.confirmed-banner {
+  color: var(--confirmed);
+  font-weight: 700;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--confirmed);
+  border-radius: 6px;
+  text-align: center;
+  margin: 1rem 0;
+}
