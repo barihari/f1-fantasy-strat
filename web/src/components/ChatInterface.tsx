@@ -17,9 +17,8 @@ export default function ChatInterface() {
     "idle" | "awaiting_screenshot" | "analyzing" | "confirmed" | "mismatch"
   >("idle");
   const [confirmedRace, setConfirmedRace] = useState("");
-  const [pastedImage, setPastedImage] = useState<File | null>(null);
-  const [imagePreview, setImagePreview] = useState<string | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
+  const fileInputRef = useRef<HTMLInputElement>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
   const scrollToBottom = useCallback(() => {
@@ -126,33 +125,11 @@ export default function ChatInterface() {
     }
   }
 
-  function clearPastedImage() {
-    setPastedImage(null);
-    if (imagePreview) {
-      URL.revokeObjectURL(imagePreview);
-      setImagePreview(null);
-    }
-  }
+  async function handleScreenshot(e: React.ChangeEvent<HTMLInputElement>) {
+    const file = e.target.files?.[0];
+    if (!file) return;
 
-  function handlePaste(e: React.ClipboardEvent) {
-    const items = e.clipboardData?.items;
-    if (!items) return;
-    for (const item of Array.from(items)) {
-      if (item.type.startsWith("image/")) {
-        e.preventDefault();
-        const file = item.getAsFile();
-        if (file) {
-          setPastedImage(file);
-          setImagePreview(URL.createObjectURL(file));
-        }
-        return;
-      }
-    }
-  }
-
-  async function submitScreenshot(file: File) {
     setLockInState("analyzing");
-    clearPastedImage();
     setMessages((prev) => [
       ...prev,
       { role: "user", content: "[Screenshot uploaded]" },
@@ -194,7 +171,7 @@ export default function ChatInterface() {
             role: "assistant",
             content:
               result.analysis +
-              "\n\nTell me about the differences, or paste a new screenshot when ready.",
+              "\n\nTell me about the differences, or upload a new screenshot when ready.",
           };
           return updated;
         });
@@ -210,6 +187,8 @@ export default function ChatInterface() {
         return updated;
       });
     }
+
+    if (fileInputRef.current) fileInputRef.current.value = "";
   }
 
   return (
@@ -262,30 +241,22 @@ export default function ChatInterface() {
         <div ref={messagesEndRef} />
       </div>
 
-      {(lockInState === "awaiting_screenshot" || lockInState === "mismatch") && !pastedImage && (
+      {(lockInState === "awaiting_screenshot" || lockInState === "mismatch") && (
         <div className="flex-none px-4 py-3 border-t border-border">
-          <div className="block w-full text-center py-3 px-4 text-sm font-medium border border-dashed border-accent/50 text-accent/70 rounded">
-            Paste screenshot below
-          </div>
-        </div>
-      )}
-
-      {pastedImage && imagePreview && (
-        <div className="flex-none px-4 py-3 border-t border-border">
-          <div className="flex items-center gap-3">
-            <img
-              src={imagePreview}
-              alt="Screenshot preview"
-              className="h-16 w-auto rounded border border-border object-cover"
-            />
-            <span className="text-sm text-muted flex-1">Screenshot ready</span>
-            <button
-              onClick={clearPastedImage}
-              className="text-xs text-muted hover:text-foreground"
-            >
-              Remove
-            </button>
-          </div>
+          <input
+            ref={fileInputRef}
+            type="file"
+            accept="image/*"
+            onChange={handleScreenshot}
+            className="hidden"
+            id="screenshot-input"
+          />
+          <label
+            htmlFor="screenshot-input"
+            className="block w-full text-center py-3 px-4 text-sm font-medium border border-accent text-accent cursor-pointer rounded"
+          >
+            Upload Screenshot
+          </label>
         </div>
       )}
 
@@ -296,14 +267,7 @@ export default function ChatInterface() {
       )}
 
       <form
-        onSubmit={(e) => {
-          e.preventDefault();
-          if (pastedImage && (lockInState === "awaiting_screenshot" || lockInState === "mismatch")) {
-            submitScreenshot(pastedImage);
-            return;
-          }
-          sendMessage(e);
-        }}
+        onSubmit={sendMessage}
         className="flex-none px-4 py-3 border-t border-border"
       >
         <div className="flex gap-2 items-end">
@@ -311,28 +275,19 @@ export default function ChatInterface() {
             ref={textareaRef}
             value={input}
             onChange={(e) => setInput(e.target.value)}
-            onPaste={handlePaste}
             onKeyDown={(e) => {
               if (e.key === "Enter" && !e.shiftKey) {
                 e.preventDefault();
-                if (pastedImage && (lockInState === "awaiting_screenshot" || lockInState === "mismatch")) {
-                  submitScreenshot(pastedImage);
-                  return;
-                }
                 sendMessage(e);
               }
             }}
-            placeholder={
-              lockInState === "awaiting_screenshot" || lockInState === "mismatch"
-                ? "Paste your screenshot here..."
-                : "Ask about your team..."
-            }
+            placeholder="Ask about your team..."
             rows={1}
             className="flex-1 bg-transparent border border-border rounded px-3 py-2 text-sm text-foreground placeholder:text-muted resize-none focus:outline-none focus:border-foreground/30"
           />
           <button
             type="submit"
-            disabled={isLoading || (!input.trim() && !pastedImage)}
+            disabled={isLoading || !input.trim()}
             className="px-3 py-2 text-sm text-foreground border border-border rounded disabled:opacity-30 hover:border-foreground/30"
           >
             Send
