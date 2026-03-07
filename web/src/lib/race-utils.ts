@@ -92,5 +92,9 @@ export function getRaceByLocationSlug(slug: string): RaceInfo | undefined {
 export async function getLockInStatus(round: number): Promise<boolean> {
   const log = await readFile("season/decision-log.md");
   if (!log) return false;
-  return log.includes(`Race ${round}`) && log.includes("Verified via screenshot");
+  return (
+    log.includes(`Race ${round}`) &&
+    (log.includes("Verified via screenshot") ||
+      log.includes("Verified via user confirmation"))
+  );
 }

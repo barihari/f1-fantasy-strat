@@ -38,7 +38,71 @@ export default function ChatInterface() {
   }, [input]);
 
   const isLockedInMessage = (text: string) =>
-    /\blocked\s*in\b/i.test(text);
+    /\b(lock(?:ed)?\s*in|lockin)\b/i.test(text);
+  const isManualConfirmationMessage = (text: string) =>
+    /\b(confirmed?|confirm|no changes|no change|all good|looks good|done|same team)\b/i.test(
+      text
+    );
+
+  async function submitManualConfirmation(userMessage: string) {
+    setLockInState("analyzing");
+    setMessages((prev) => [
+      ...prev,
+      { role: "user", content: userMessage },
+      { role: "assistant", content: "Recording your lock-in confirmation..." },
+    ]);
+
+    try {
+      const conversationText = [...messages, { role: "user", content: userMessage }]
+        .map((m) => `${m.role}: ${m.content}`)
+        .join("\n");
+
+      const formData = new FormData();
+      formData.append("manualConfirmation", "true");
+      formData.append("summary", conversationText);
+
+      const response = await fetch("/api/lock-in", {
+        method: "POST",
+        body: formData,
+      });
+      const result = await response.json();
+
+      if (result.confirmed) {
+        setLockInState("confirmed");
+        setConfirmedRace(result.race);
+        setMessages((prev) => {
+          const updated = [...prev];
+          updated[updated.length - 1] = {
+            role: "assistant",
+            content: result.analysis,
+          };
+          return updated;
+        });
+      } else {
+        setLockInState("mismatch");
+        setMessages((prev) => {
+          const updated = [...prev];
+          updated[updated.length - 1] = {
+            role: "assistant",
+            content:
+              result.analysis ||
+              "Could not confirm lock-in. Upload a screenshot or try again.",
+          };
+          return updated;
+        });
+      }
+    } catch (error) {
+      setLockInState("idle");
+      setMessages((prev) => {
+        const updated = [...prev];
+        updated[updated.length - 1] = {
+          role: "assistant",
+          content: `Lock-in confirmation failed: ${String(error)}. Try again.`,
+        };
+        return updated;
+      });
+    }
+  }
 
   async function sendMessage(e: React.FormEvent) {
     e.preventDefault();
@@ -47,6 +111,14 @@ export default function ChatInterface() {
     const userMessage = input.trim();
     setInput("");
 
+    if (
+      (lockInState === "awaiting_screenshot" || lockInState === "mismatch") &&
+      isManualConfirmationMessage(userMessage)
+    ) {
+      await submitManualConfirmation(userMessage);
+      return;
+    }
+
     if (isLockedInMessage(userMessage) && lockInState === "idle") {
       setMessages((prev) => [
         ...prev,
@@ -54,7 +126,7 @@ export default function ChatInterface() {
         {
           role: "assistant",
           content:
-            "Upload a screenshot of your F1 Fantasy lineup to confirm.",
+            "Upload a screenshot of your F1 Fantasy lineup to confirm.\n\nIf upload is not working, reply: \"confirmed no changes\" and I will lock it in.",
         },
       ]);
       setLockInState("awaiting_screenshot");

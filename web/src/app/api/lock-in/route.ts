@@ -12,21 +12,14 @@ export async function POST(req: NextRequest) {
     const formData = await req.formData();
     const file = formData.get("screenshot") as File | null;
     const conversationSummary = formData.get("summary") as string | null;
+    const manualConfirmation = formData.get("manualConfirmation") === "true";
 
-    if (!file) {
+    if (!file && !manualConfirmation) {
       return NextResponse.json(
-        { error: "No screenshot provided" },
+        { error: "No screenshot or manual confirmation provided" },
         { status: 400 }
       );
     }
-
-    const bytes = await file.arrayBuffer();
-    const base64 = Buffer.from(bytes).toString("base64");
-    const mediaType = file.type as
-      | "image/jpeg"
-      | "image/png"
-      | "image/webp"
-      | "image/gif";
 
     const [kb, race] = await Promise.all([
       loadKnowledgeBase(),
@@ -40,25 +33,43 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    const systemPrompt = buildScreenshotAnalysisPrompt(kb, race);
-    const response = await analyzeImage(
-      systemPrompt,
-      base64,
-      mediaType,
-      "Analyze this F1 Fantasy lineup screenshot. Compare it to my recommended lineup and report if it matches or has differences."
-    );
+    let analysisText = "";
+    let isMatch = false;
 
-    const block = response.content[0];
-    const analysisText = block.type === "text" ? block.text : "";
-    const isMatch = analysisText.toUpperCase().startsWith("MATCH");
+    if (manualConfirmation) {
+      analysisText =
+        "MATCH — Lock-in confirmed via user text confirmation (no screenshot).";
+      isMatch = true;
+    } else if (file) {
+      const bytes = await file.arrayBuffer();
+      const base64 = Buffer.from(bytes).toString("base64");
+      const mediaType = file.type as
+        | "image/jpeg"
+        | "image/png"
+        | "image/webp"
+        | "image/gif";
+      const systemPrompt = buildScreenshotAnalysisPrompt(kb, race);
+      const response = await analyzeImage(
+        systemPrompt,
+        base64,
+        mediaType,
+        "Analyze this F1 Fantasy lineup screenshot. Compare it to my recommended lineup and report if it matches or has differences."
+      );
+      const block = response.content[0];
+      analysisText = block.type === "text" ? block.text : "";
+      isMatch = analysisText.toUpperCase().startsWith("MATCH");
+    }
 
     if (isMatch) {
       const now = new Date().toLocaleString("en-US", {
         timeZone: "America/New_York",
       });
       const raceLabel = formatRaceLabel(race);
+      const verificationType = manualConfirmation
+        ? "Verified via user confirmation"
+        : "Verified via screenshot";
 
-      const logEntry = `\n## ${raceLabel} | ${now}\n\n${analysisText}\n\nVerified via screenshot: ${now}\n`;
+      const logEntry = `\n## ${raceLabel} | ${now}\n\n${analysisText}\n\n${verificationType}: ${now}\n`;
       await appendToFile(
         "season/decision-log.md",
         logEntry,
@@ -80,7 +91,7 @@ export async function POST(req: NextRequest) {
       if (!existingRec) {
         await writeFile(
           `season/race-recommendations/${getRaceSlug(race)}.md`,
-          `# ${raceLabel}\n\nVerified lineup (screenshot confirmed ${now}):\n\n${analysisText}\n`,
+          `# ${raceLabel}\n\nVerified lineup (${manualConfirmation ? "user-confirmed" : "screenshot confirmed"} ${now}):\n\n${analysisText}\n`,
           `Race recommendation: ${raceLabel}`
         );
       }
