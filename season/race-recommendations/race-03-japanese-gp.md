@@ -6,11 +6,11 @@
 
 ## Executive Summary
 
-**Circuit Profile:** Technical permanent circuit, medium-high overtakes, no sprint, favors car balance and driver skill
+**Circuit Profile:** Permanent technical circuit, Medium-High overtake tier, standard weekend format, reward teams with strong aero packages and driver skill.
 
-**Weather:** Spring conditions (15-20°C), 40% rain probability increasing to 60% for Sunday. Typical March volatility at Suzuka.
+**Weather:** Spring conditions, 18-22°C, 40% rain probability Saturday-Sunday. Typical March weather in Japan brings variable conditions.
 
-**Strategic Focus:** First true test of 2026 aero packages on a technical circuit. Energy management becomes critical on Suzuka's demanding layout.
+**Strategic Focus:** Circuit rewards car balance and technical precision over raw power. Focus on teams showing strong downforce efficiency in testing and drivers with Suzuka historical performance.
 
 ---
 
@@ -18,69 +18,69 @@
 
 ### Track Characteristics
 - **Length:** 5.807km, 53 laps
-- **Overtake Zones:** 130R to chicane, main straight (DRS historically), Spoon Curve exit
-- **Key Features:** Figure-8 layout, elevation changes, technical S-curves, high-speed corners
-- **Historical Avg:** 38-42 overtakes per race
+- **Overtake Zones:** Turn 1 chicane, Spoon Curve exit onto back straight, 130R-chicane sequence
+- **Key Features:** Figure-8 layout, elevation changes, high-speed corners requiring downforce/driver confidence
+- **Historical Avg:** 40-45 overtakes per race
 
 ### 2026 Regulation Impact
-- Active aero X-mode on main straight and 130R approach will increase overtake opportunities vs historical data
-- Energy management critical due to sustained high-speed corners draining battery
-- Reduced downforce makes the technical S-curves more challenging — driver skill premium increased
-- Start volatility higher with no MGU-K for first 50m on the uphill run to Turn 1
+- Active aero X-Mode on main straight and back straight will increase passing opportunities compared to historical data
+- Energy management critical through sector 1's technical corners — teams with superior battery deployment will have edge
+- 30kg lighter cars may handle Suzuka's elevation changes differently than ground-effect era
+- Race starts more volatile (no MGU-K first 50m) could create first-lap position shuffles through Turn 1
 
 ### Weather Forecast
-**Current:** Overcast, 18°C. **Rain probability: 60% Sunday.** Forecast remains fluid — typical spring weather at Suzuka can shift rapidly. Monitor Saturday evening updates.
+**Current:** Partly cloudy, 20°C. **Rain probability: 40%.** Forecast uncertainty typical for Japanese spring — monitor Saturday morning conditions before final transfers.
 
 ---
 
 ## Power Unit Supplier Analysis
 
 ### Strongest Performers
-1. **Ferrari** (Ferrari, Haas) — Leclerc fastest in testing, strong energy deployment in FP sessions. Both teams showing competitive pace.
-2. **Mercedes** (Mercedes, McLaren, Williams, Alpine) — Dominant FP1/FP2 across customer teams. Compression ratio advantage appears real.
-3. **Red Bull/Ford** (Red Bull, Racing Bulls) — Verstappen's pace masks PU questions, but overall competitive at race distance.
+1. **Mercedes** (Mercedes, McLaren, Williams, Alpine) — FP1/FP2 showed superior energy deployment efficiency. Compression ratio advantage appearing real.
+2. **Ferrari** (Ferrari, Haas, Cadillac) — Leclerc topped testing times. Strong ICE performance suits Suzuka's technical demands.
+3. **Red Bull/Ford** (Red Bull, Racing Bulls) — Solid pace but energy management still unknown at race distance.
 
 ### Crisis Zone
-- **Honda** (Aston Martin) — Multiple failures in testing continue. Planning early retirement at Australia confirmed strategy failure. **AVOID ALL ASTON MARTIN ASSETS.**
+- **Honda** (Aston Martin) — Multiple PU failures in testing, planned early retirements in Australia. **AVOID ALL ASTON MARTIN ASSETS.**
 
 ### Unknown
-- **Audi** (Audi) — Limited data from new manufacturer. Hulkenberg provides consistent baseline regardless of PU performance.
+- **Audi** (Audi) — First race weekend gave limited data. Hulkenberg consistency may overcome PU unknowns, but constructor remains high-risk.
 
 ---
 
 ## Key Storylines
 
-### 1. Ferrari's Championship Statement
-Leclerc was fastest in pre-season testing and Suzuka has been a Ferrari-strong circuit historically. If the SF-26 delivers on its testing promise, this could be the race that establishes Ferrari as the 2026 benchmark. Fantasy relevance: Leclerc 2X Boost potential, Ferrari constructor scoring ceiling.
+### 1. Leclerc vs Russell Championship Opener
+Both drivers showed dominant testing pace and are betting favorites for 2026 WDC. Suzuka historically rewards the driver who can extract maximum from the car through technical sectors. Fantasy impact: Both are 2X Boost candidates if their teams deliver the expected pace.
 
-### 2. Energy Management Learning Curve
-Suzuka's sustained high-speed sections will be the first real test of teams' battery deployment strategies. Teams that master the 50/50 hybrid split will have a hidden advantage in the final stint. Watch for drivers fading in the last 15 laps — that signals poor energy management.
+### 2. Mercedes PU Advantage Confirmation
+Four teams run Mercedes power units. If the compression ratio loophole rumors prove true, Mercedes-powered assets could dominate scoring. Fantasy impact: Williams (Sainz) and Alpine become value plays that benefit from premium PU performance at budget prices.
 
-### 3. Red Bull's Second Seat Curse Continues
-Hadjar starts his first Suzuka weekend carrying the weight of Red Bull's historically problematic second seat. The technical demands of Suzuka could expose his inexperience. If he struggles, it validates the "Verstappen dependency" concern for Red Bull as a constructor.
+### 3. Honda Engine Crisis Deepens
+Aston Martin planning more early retirements after Australia issues. Alonso ($10.0M) and Stroll ($8.0M) are expensive for guaranteed underperformance. Fantasy impact: 3% Stroll ownership confirms market consensus — avoid completely.
 
-### 4. Weather Wild Card
-60% rain probability for Sunday could completely reshape the race. Wet Suzuka is chaotic — safety cars, red flags, and massive position changes are common. This could benefit value picks starting mid-grid who thrive in chaos.
+### 4. Haas Value Pick Validation
+Bearman (56% ownership) and Ocon (15% ownership) in identical Ferrari-powered cars. If Haas maintains P5-P6 pace from testing, both should easily exceed 3.0 PPM threshold for +$0.6M price gains. Fantasy impact: Ocon provides same upside as Bearman with differential ownership edge.
 
-### 5. Haas Overtake Factory
-Haas led the grid in total overtakes in 2025. Suzuka's improved overtaking zones (with active aero) could see Ocon and Bearman charging through the field if they qualify mid-pack, scoring massive position-gain points.
+### 5. 2026 Overtaking Data Baseline
+First non-Sprint weekend to establish overtaking patterns under new regulations. Historical 40-45 average may increase with active aero available to all drivers on straights. Fantasy impact: Value picks starting mid-grid could score higher position-gain points than under old regulations.
 
 ---
 
 ## Current Team Analysis
 
 ### Strengths
-- Ferrari PU exposure (4 assets) aligns with the strongest pre-season testing performance
-- Leclerc on 2X Boost at a circuit where he historically performs well
-- Haas constructor provides overtake upside if Ocon/Bearman start mid-grid
+- Heavy Ferrari PU exposure (4 assets) aligns with testing leader and confirmed competitive supplier
+- Leclerc 2X Boost on driver who topped pre-season times at technical circuits
+- Haas constructor captures Ferrari PU performance at budget pricing with both drivers capable of points
 
 ### Risks
-- Heavy Ferrari PU dependency (4 of 7 assets) — if Ferrari's testing pace was misleading, the entire lineup suffers
-- Hadjar exposed at a technical circuit that could highlight his Red Bull second-seat inexperience
-- Weather could create chaos that benefits different driver profiles than our current mix
+- Hadjar ($15.1M) unproven in Red Bull's historically difficult second seat — high price for uncertainty
+- No Mercedes PU exposure despite their apparent advantage — missing potential upside
+- Hulkenberg carries Audi PU risk — new manufacturer could struggle with energy deployment complexity
 
 ### 2X Boost Placement
-**Charles Leclerc** — Fastest in testing, strong historical Suzuka record, and technical circuits favor his precision driving style. Suzuka is a "driver's circuit" where elite talent shines.
+**Charles Leclerc** — Testing fastest, Ferrari PU competitive, Suzuka suits his technical driving style. If Ferrari delivers expected pace, boost multiplication on a potential race winner maximizes scoring ceiling.
 
 ---
 
@@ -89,30 +89,29 @@ Haas led the grid in total overtakes in 2025. Suzuka's improved overtaking zones
 ### Pre-Race Scouting (FP1/FP2)
 **Priority intel to gather:**
 
-1. **Energy deployment patterns** — which teams fade in long runs vs maintain pace
-2. **Ferrari's real pace** — was testing speed legitimate or flattering fuel loads?
-3. **Weather preparation** — wet weather setup differences between teams
-4. **Hadjar's adaptation** — is he comfortable with Suzuka's technical demands?
-5. **Overtake zone effectiveness** — are active aero X-mode zones creating more passes than historical 38-42?
+1. **Mercedes vs Ferrari PU battle** — which supplier shows better energy deployment through technical sectors
+2. **Haas race pace validation** — can Bearman/Ocon maintain points-scoring pace over race distance
+3. **Red Bull second seat reality check** — is Hadjar genuinely competitive or struggling like previous occupants
+4. **Weather development** — rain forecast could favor certain drivers/teams with wet setup experience
+5. **Aston Martin reliability** — any more PU failures confirm total avoidance strategy
 
 ### Transfer Strategy
 **Recommendation: BANK BOTH FREE TRANSFERS**
 
-Current lineup is well-positioned for Suzuka. Leclerc and Haas should benefit from the circuit profile, and it's too early to abandon the Ferrari PU thesis after just two races.
+Early-season data gathering is more valuable than reactive changes. Current structure captures the strongest PU suppliers and maintains Phase 1 value-building focus.
 
 **Only transfer if:**
-- FP1/FP2 shows Ferrari PU is fundamentally uncompetitive (not just setup issues)
-- Hadjar has qualifying disaster or clear pace deficit to mid-field
-- Weather forecast shifts dramatically (dry → wet specialists needed)
+- FP1/FP2 shows Hadjar significantly off Red Bull pace (swap to Mercedes-powered mid-tier driver)
+- Weather turns wet and lineup lacks strong wet-weather performer
+- Aston Martin suffers more PU failures, confirming complete avoidance of Honda suppliers
 
 ### Chip Strategy
-**No chips recommended** — Save for established targets. Suzuka is data-gathering, not chip deployment.
+**No chips recommended** — Save for higher-certainty deployment windows once 2026 form patterns are established.
 
-Forward chip calendar targets:
-• **Wildcard** — Races 6-10 for Phase 1 exit
-• **Limitless** — Monaco R8 (low overtakes, qualifiers dominate)
-• **3X Boost** — Netherlands R14 (Sprint + Phase 2 budget)
-• **Final Fix** — Azerbaijan R17 (crash risk street circuit)
+Early-season chip calendar:
+- Wildcard: Races 6-10 during team restructure phase
+- No Negative: Canada R7 (rain risk) or any confirmed wet race
+- 3X Boost: Netherlands R14 (Sprint + Phase 2 budget)
 
 ---
 
@@ -120,19 +119,19 @@ Forward chip calendar targets:
 
 ### Keep Current Structure
 
-Current lineup is strategically sound for Suzuka's profile and aligns with pre-season intelligence.
+Current lineup captures the best available 2026 intel while maintaining Phase 1 value-building strategy.
 
 | Slot | Current | Alternative | Recommendation |
 |------|---------|-------------|----------------|
-| Driver 1 (2X) | **Leclerc** | Verstappen | **KEEP** — Testing pace + circuit fit |
-| Driver 2 | **Hadjar** | Piastri | **KEEP** — Too early to abandon, monitor FP |
-| Driver 3 | **Sainz** | Gasly | **KEEP** — Williams Mercedes PU upside |
-| Driver 4 | **Bearman** | Ocon | **KEEP** — Value building target |
-| Driver 5 | **Hulkenberg** | Bortoleto | **KEEP** — Consistent floor |
-| Constructor 1 | **Ferrari** | McLaren | **KEEP** — Testing leader, price advantage |
-| Constructor 2 | **Haas** | Racing Bulls | **KEEP** — Best value constructor |
+| Driver 1 (2X) | **Leclerc** | Russell | **KEEP** — Testing leader, Ferrari PU strong |
+| Driver 2 | **Hadjar** | Sainz | **KEEP** — Monitor FP1/FP2, transfer if pace poor |
+| Driver 3 | **Sainz** | Gasly | **KEEP** — Mercedes PU upside at Williams |
+| Driver 4 | **Bearman** | Ocon | **KEEP** — Value target, 56% ownership justified |
+| Driver 5 | **Hulkenberg** | Bottas | **KEEP** — Consistency over unknown, $0.9M savings minor |
+| Constructor 1 | **Ferrari** | McLaren | **KEEP** — Testing leader, $5-6M cheaper than other Big 4 |
+| Constructor 2 | **Haas** | Racing Bulls | **KEEP** — Value constructor target, Ferrari PU benefit |
 
-**No changes recommended.**
+**No changes recommended** — banking transfers for post-FP2 intelligence or Race 4 adjustments.
 
 ---
 
@@ -140,55 +139,55 @@ Current lineup is strategically sound for Suzuka's profile and aligns with pre-s
 
 ### Likely Scoring Scenarios
 
-**Conservative (85-110 pts):** Ferrari pace was testing flatter, Hadjar struggles, weather stays dry. Leclerc 2X carries the lineup but supporting cast underperforms.
+**Conservative (85-105 pts):** Ferrari PU performs as expected, value picks score modestly, no major incidents. Leclerc P3-P5, Haas both-in-points, others maintain positions.
 
-**Target (110-140 pts):** Ferrari delivers on testing promise, Haas scores overtake points, Leclerc 2X maximizes on strong car. Weather adds some chaos benefiting value picks.
+**Target (105-125 pts):** Ferrari dominance emerges, Leclerc podium with 2X boost, Haas overperforms expectations, Sainz benefits from Mercedes PU advantage. Some position-gain scoring from value picks.
 
-**Optimistic (140+ pts):** Rain creates mayhem, Bearman/Hulkenberg charge through field, Leclerc dominates on 2X, Ferrari constructor bonus from both-in-Q3 + fast stops.
+**Optimistic (125+ pts):** Leclerc wins with fastest lap/DOTD bonuses, active aero creates more overtaking than expected, rain chaos benefits skilled drivers, value picks score massive position gains.
 
 ### Key Variables
-- **Weather impact** — rain probability 60%, could create 20+ position changes
-- **Ferrari's true pace** — single biggest determinant of lineup success
-- **Energy management revelation** — which teams master the new hybrid system first
-- **Start chaos** — no MGU-K for 50m could shuffle positions dramatically
-- **Safety car potential** — Suzuka + rain = high probability of interventions
+- Weather development — rain creates chaos and opportunity for skilled drivers
+- Active aero impact — may increase overtaking beyond historical 40-45 average  
+- PU reliability — any failures confirm supplier hierarchy for future races
+- Energy management patterns — which teams/drivers fade in final stint vs gain strength
+- First-lap incidents — 2026 start volatility may create early position changes
 
 ---
 
 ## Post-Race Action Items
 
 ### Immediate (Sunday Evening)
-1. **Log actual overtake count** vs historical 38-42 baseline — first 2026 data for circuit profile recalibration
-2. **Record energy management patterns** — which teams/drivers faded in final stint
-3. **Document Ferrari's race pace** vs testing — validate or invalidate the PU thesis
-4. **Check Hadjar's performance** vs expectations — inform Red Bull constructor strategy
+1. Log actual overtake count vs 40-45 historical baseline to calibrate 2026 active aero impact
+2. Record energy management observations — which teams/drivers stronger in final 15 laps
+3. Note any PU reliability failures, especially Honda/Audi suppliers
+4. Track price change predictions for current assets using race PPM data
 
 ### Monday Analysis
-1. **Update overtake tier ranking** if significantly different from "medium-high" prediction
-2. **Recalibrate Ferrari PU assumption** based on actual race data vs pre-season testing
-3. **Assess 2026 regulation impact** on Suzuka specifically — more/fewer overtakes than expected?
-4. **Review weather impact** if rain materialized — which drivers gained/lost from conditions
+1. Calculate 2026-specific PPM thresholds for each current asset based on actual scoring
+2. Compare Mercedes vs Ferrari PU performance across all teams using same supplier
+3. Assess Hadjar's genuine pace vs expectations — transfer target if significantly behind
+4. Update Suzuka overtake tier in circuit profiles based on 2026 regulation impact
 
 ### Transfer Window (Before R4 Lock)
-- **Monitor Ferrari post-race analysis** — mechanical issues or driver errors?
-- **Track Hadjar's confidence/media response** — still adapting or fundamentally struggling?
-- **Watch for setup revelations** — did any team find a breakthrough setup direction?
-- **Check for injury/penalty news** affecting Bahrain lineup decisions
+- Monitor Bahrain geopolitical situation — transfer strategy changes if race cancelled
+- Evaluate any Mercedes-powered drivers showing breakthrough pace (Alpine/Williams assets)
+- Consider Hadjar replacement if Red Bull second seat curse continues
+- Check weather forecast for Bahrain — desert race but setup-dependent
 
 ---
 
 ## Success Metrics
 
-**Primary Goal:** Validate the Ferrari PU thesis — if Leclerc + Ferrari + Haas all score well, the strategic foundation is sound.
+**Primary Goal:** Maintain team value growth trajectory while gathering 2026 regulation impact data without chip deployment risk.
 
 **Secondary Goals:**
-- **Gather 2026 regulation data** — overtake counts, energy management patterns, start volatility
-- **Score 110+ points** to maintain competitive position in Phase 1
-- **Build value** through Bearman/Hulkenberg PPM performance
-- **Bank transfers** for future structural changes
+- Validate Ferrari PU supplier choice through Leclerc/Haas performance
+- Confirm Tier B asset price growth potential (Bearman, Hulkenberg need 3+ PPM each)  
+- Establish 2026 overtaking baseline for future circuit profile calibration
+- Bank transfers for structural changes once form patterns are clearer
 
-**Avoid:** Panic transfers based on single-race Ferrari underperformance. One race is noise; three races is a trend.
+**Avoid:** Reactive transfers based on single-session pace, premature chip deployment before regulation impact is understood, missing obvious Mercedes PU advantage if it emerges clearly.
 
 ---
 
-*Next Brief: Round 4 Bahrain GP (No Sprint) — First high-overtake circuit test for 2026 active aero regulations*
+*Next Brief: Round 4 Bahrain GP (Standard) — Geopolitical risk monitoring required, high-overtake circuit favors value picks with position-gain scoring potential*
