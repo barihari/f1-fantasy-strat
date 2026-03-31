@@ -20,12 +20,6 @@ export default function NavTabs() {
   const isChat = pathname === "/chat" || pathname === "/";
   const [briefs, setBriefs] = useState<BriefEntry[]>([]);
   const [drawerOpen, setDrawerOpen] = useState(false);
-  const [lastViewedSlug, setLastViewedSlug] = useState<string | null>(() => {
-    if (typeof window !== "undefined") {
-      return sessionStorage.getItem("last-brief-slug");
-    }
-    return null;
-  });
   const drawerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -38,11 +32,17 @@ export default function NavTabs() {
   const currentSlug = isBrief ? pathname.split("/brief/")[1] || null : null;
 
   useEffect(() => {
-    if (currentSlug) {
-      setLastViewedSlug(currentSlug);
+    if (currentSlug && typeof window !== "undefined") {
       sessionStorage.setItem("last-brief-slug", currentSlug);
     }
   }, [currentSlug]);
+
+  const storedBriefSlug =
+    typeof window !== "undefined"
+      ? sessionStorage.getItem("last-brief-slug")
+      : null;
+  /** On /chat, fall back to last brief slug persisted while on a brief page (no setState in effect). */
+  const activeSlug = currentSlug || storedBriefSlug;
 
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
@@ -56,7 +56,6 @@ export default function NavTabs() {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, [drawerOpen]);
 
-  const activeSlug = currentSlug || lastViewedSlug;
   const activeBrief = activeSlug
     ? briefs.find((b) => b.locationSlug === activeSlug)
     : null;

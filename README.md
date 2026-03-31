@@ -54,6 +54,13 @@ season/             Your team's live state
   f1-fantasy-consultant.mdc   Consultant protocol
 ```
 
+## Web app CI
+
+If a commit shows a red **X** on GitHub, see which check failed:
+
+- **Script:** `./scripts/check-commit-checks.sh` (needs [GitHub CLI](https://cli.github.com/) and `gh auth login`)
+- **Details:** [docs/github-checks.md](docs/github-checks.md) (CLI one-liners, `curl`, local `cd web && npm run lint && npm run build`)
+
 ## Live Data Sources
 
 The consultant fetches from these sites on every recommendation:
