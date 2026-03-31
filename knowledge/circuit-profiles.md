@@ -33,27 +33,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** Favor drivers from teams with strong aero packages. Constructors with both drivers in Q3 earn big bonuses here.
 - **Historical Performers:** Verstappen (dominant), Norris, Piastri
 
-## Round 4: Bahrain GP — Sakhir
-- **Type:** Permanent
-- **Overtake Tier:** High
-- **Sprint:** No
-- **Weather Risk:** None (desert)
-- **Key Stats:** 50+ overtakes, multiple long straights, tire degradation circuit
-- **Fantasy Strategy:** High overtakes make position-gain scorers valuable. Good for value picks who start mid-grid and charge forward.
-- **Risk:** GEOPOLITICAL — may be cancelled/relocated. Do NOT anchor chips here.
-- **Historical Performers:** Verstappen, Leclerc, Hamilton
-
-## Round 5: Saudi Arabian GP — Jeddah
-- **Type:** Street circuit
-- **Overtake Tier:** Low
-- **Sprint:** No
-- **Weather Risk:** None
-- **Key Stats:** Fastest street circuit, ~25 overtakes, high crash risk, safety cars common
-- **Fantasy Strategy:** Low overtakes = favor qualifiers. High DNF risk — No Negative chip viable. Value picks struggle here.
-- **Risk:** GEOPOLITICAL — may be cancelled/relocated. Potential Limitless target BUT risky to plan around.
-- **Historical Performers:** Verstappen, Leclerc
-
-## Round 6: Miami GP (Sprint)
+## Round 4: Miami GP (Sprint)
 - **Type:** Semi-permanent street circuit
 - **Overtake Tier:** High
 - **Sprint:** Yes
@@ -62,7 +42,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** Sprint + high overtakes = excellent scoring potential. Value picks with overtake ability thrive. Solid 3X Boost candidate if form is clear by Race 6.
 - **Historical Performers:** Norris, Verstappen, Leclerc
 
-## Round 7: Canadian GP — Montreal (Sprint)
+## Round 5: Canadian GP — Montreal (Sprint)
 - **Type:** Semi-permanent
 - **Overtake Tier:** Medium-High
 - **Sprint:** Yes
@@ -71,7 +51,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** Sprint weekend with high weather variance. No Negative is tempting if rain forecast. Value picks often overperform here.
 - **Historical Performers:** Verstappen, Russell, Alonso (always strong at Montreal)
 
-## Round 8: Monaco GP — Monte Carlo
+## Round 6: Monaco GP — Monte Carlo
 - **Type:** Street circuit
 - **Overtake Tier:** Very Low
 - **Sprint:** No
@@ -81,7 +61,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Historical Performers:** Leclerc (pole specialist), Verstappen, Sainz
 - **Chip Note:** Limitless. Overwhelming consensus among top players.
 
-## Round 9: Barcelona-Catalunya GP — Barcelona
+## Round 7: Barcelona-Catalunya GP — Barcelona
 - **Type:** Permanent
 - **Overtake Tier:** High
 - **Sprint:** No
@@ -90,7 +70,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** Pure performance circuit. Favor teams with the best overall car pace. Value picks with overtake ability score well.
 - **Historical Performers:** Verstappen, Norris, Hamilton
 
-## Round 10: Austrian GP — Spielberg
+## Round 8: Austrian GP — Spielberg
 - **Type:** Permanent (Red Bull Ring)
 - **Overtake Tier:** High
 - **Sprint:** No
@@ -99,7 +79,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** High overtakes and short lap = lots of position changes. Value picks thrive. Weather adds variance.
 - **Historical Performers:** Verstappen (home race, dominant), Norris, Piastri
 
-## Round 11: British GP — Silverstone (Sprint)
+## Round 9: British GP — Silverstone (Sprint)
 - **Type:** Permanent
 - **Overtake Tier:** Medium
 - **Sprint:** Yes
@@ -108,7 +88,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** Sprint weekend + rain risk. Medium overtakes mean qualifiers have an edge. Weather could create chaos (No Negative value). 3X Boost possible if your premium anchor historically dominates here.
 - **Historical Performers:** Hamilton (8 wins), Verstappen, Norris
 
-## Round 12: Belgian GP — Spa-Francorchamps
+## Round 10: Belgian GP — Spa-Francorchamps
 - **Type:** Permanent
 - **Overtake Tier:** Medium-High
 - **Sprint:** No
@@ -117,7 +97,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** Grid penalties create massive overtake opportunities. Drivers starting from the back (engine penalty) can gain 10+ positions. Rain adds chaos. Check for penalty news before lock.
 - **Historical Performers:** Verstappen (dominant), Piastri, Hamilton
 
-## Round 13: Hungarian GP — Budapest
+## Round 11: Hungarian GP — Budapest
 - **Type:** Permanent (Hungaroring)
 - **Overtake Tier:** Low-Medium
 - **Sprint:** No
@@ -126,7 +106,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** **LIMITLESS BACKUP TARGET.** If Limitless was not used at Monaco, Hungary is the next best option. Low overtakes favor qualifiers. Strategy/pit stops more important than raw pace here.
 - **Historical Performers:** Verstappen, Norris, Hamilton
 
-## Round 14: Dutch GP — Zandvoort (Sprint)
+## Round 12: Dutch GP — Zandvoort (Sprint)
 - **Type:** Permanent
 - **Overtake Tier:** High
 - **Sprint:** Yes
@@ -135,7 +115,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** **3X BOOST PRIORITY TARGET #1.** Sprint + high overtakes + Phase 2 budget = maximum scoring ceiling. Deploy 3X on your best premium driver.
 - **Historical Performers:** Verstappen (home race, 3 straight wins), Norris, Leclerc
 
-## Round 15: Italian GP — Monza
+## Round 13: Italian GP — Monza
 - **Type:** Permanent
 - **Overtake Tier:** Medium-High
 - **Sprint:** No
@@ -144,7 +124,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** Favor drivers from teams with strong power units. Low-drag setup matters more than aero. Ferrari home race = DOTD potential for Leclerc.
 - **Historical Performers:** Leclerc (2 wins), Verstappen, Norris
 
-## Round 16: Spanish GP (Madrid) — Madrid (NEW)
+## Round 14: Spanish GP (Madrid) — Madrid (NEW)
 - **Type:** New permanent circuit
 - **Overtake Tier:** Unknown (debut)
 - **Sprint:** No
@@ -153,7 +133,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** HIGH UNCERTAINTY. No historical overtake data or driver records. Go with form/momentum. Conservative picks. Avoid chip use at a new circuit.
 - **Historical Performers:** N/A
 
-## Round 17: Azerbaijan GP — Baku
+## Round 15: Azerbaijan GP — Baku
 - **Type:** Street circuit
 - **Overtake Tier:** Low (street)
 - **Sprint:** No
@@ -162,7 +142,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** **FINAL FIX PRIORITY TARGET.** 49.2% of Top 500 used Final Fix here in 2025. Crashes in qualifying are common — Final Fix lets you swap out a crashed driver. Also potential Limitless target (low overtakes).
 - **Historical Performers:** Perez (king of Baku), Leclerc, Verstappen
 
-## Round 18: Singapore GP — Marina Bay (Sprint)
+## Round 16: Singapore GP — Marina Bay (Sprint)
 - **Type:** Street circuit (night race)
 - **Overtake Tier:** Low (street)
 - **Sprint:** Yes
@@ -171,7 +151,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** Sprint weekend + street circuit = 3X Boost backup target OR Final Fix backup. Rain adds chaos. No Negative also strong here if rain expected.
 - **Historical Performers:** Norris, Sainz, Verstappen
 
-## Round 19: United States GP — Austin (COTA)
+## Round 17: United States GP — Austin (COTA)
 - **Type:** Permanent
 - **Overtake Tier:** High
 - **Sprint:** No
@@ -180,7 +160,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** All-rounder circuit. Strong overall pace matters most. Phase 2 — maximize premium driver exposure.
 - **Historical Performers:** Verstappen, Hamilton, Leclerc
 
-## Round 20: Mexico GP — Mexico City
+## Round 18: Mexico GP — Mexico City
 - **Type:** Permanent (Autodromo Hermanos Rodriguez)
 - **Overtake Tier:** Elite
 - **Sprint:** No
@@ -189,7 +169,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** **DREAM CIRCUIT FOR OVERTAKERS.** Value picks who start mid-pack can score massive position gains. Even premium drivers gain from overtake bonuses. 2X Boost your best overtaker, not just your best qualifier.
 - **Historical Performers:** Verstappen (dominant), Norris, Leclerc
 
-## Round 21: Brazilian GP — Interlagos
+## Round 19: Brazilian GP — Interlagos
 - **Type:** Permanent
 - **Overtake Tier:** High
 - **Sprint:** No
@@ -198,7 +178,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** Similar to Belgium — rain + grid penalties = massive overtake scoring. Verstappen scored 77 fantasy pts from P17 in 2024 here. Weather-dependent strategy.
 - **Historical Performers:** Verstappen, Hamilton, Norris
 
-## Round 22: Las Vegas GP
+## Round 20: Las Vegas GP
 - **Type:** Semi-permanent street circuit
 - **Overtake Tier:** Medium-High
 - **Sprint:** No
@@ -207,7 +187,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Fantasy Strategy:** Cold conditions create surprise results. Straight-line speed matters. Late season — scoring focus, go with form.
 - **Historical Performers:** Leclerc (won 2024), Sainz, Verstappen
 
-## Round 23: Qatar GP — Lusail
+## Round 21: Qatar GP — Lusail
 - **Type:** Permanent
 - **Overtake Tier:** Medium-High
 - **Sprint:** No
@@ -217,7 +197,7 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 - **Risk:** GEOPOLITICAL — uncertain. Avoid chip planning around this race.
 - **Historical Performers:** Verstappen, Norris, Piastri
 
-## Round 24: Abu Dhabi GP — Yas Marina
+## Round 22: Abu Dhabi GP — Yas Marina
 - **Type:** Permanent
 - **Overtake Tier:** Elite
 - **Sprint:** No
@@ -234,10 +214,30 @@ Overtake tiers based on 3-year average data. Strategy implications for each circ
 | Tier | Circuits | Avg Overtakes |
 |------|----------|---------------|
 | Elite (60+) | Mexico, Abu Dhabi | 60+ |
-| High (50+) | China, Bahrain, Miami, Barcelona, Austria, Zandvoort, COTA, Brazil | 50+ |
+| High (50+) | China, Miami, Barcelona, Austria, Zandvoort, COTA, Brazil | 50+ |
 | Medium-High (40-50) | Japan, Montreal, Spa, Monza, Las Vegas, Qatar | 40-50 |
 | Medium (35-45) | Australia, Silverstone | 35-45 |
 | Low-Medium (25-35) | Hungary, Baku | 25-35 |
-| Low (<25) | Jeddah, Singapore | ~25 |
+| Low (<25) | Singapore | ~25 |
 | Very Low (<15) | Monaco | <15 |
 | Unknown | Madrid (new circuit) | N/A |
+
+---
+
+## Not on the 2026 Championship Calendar
+
+The following circuits hosted pre-season testing but are **not** championship rounds in 2026 (confirmed per [formula1.com/en/racing/2026](https://www.formula1.com/en/racing/2026)). Profiles retained as reference in case of future reinstatement.
+
+### Bahrain GP — Sakhir (Pre-season testing host only)
+- **Type:** Permanent
+- **Overtake Tier:** High (historical, ~50+)
+- **Sprint:** No
+- **Key Stats:** Multiple long straights, tire degradation circuit, historically strong for Ferrari and Red Bull
+- **Note:** Not on 2026 championship schedule. Overtake history kept for reference.
+
+### Saudi Arabian GP — Jeddah (Not on 2026 calendar)
+- **Type:** Street circuit
+- **Overtake Tier:** Low (~25 historically)
+- **Sprint:** No
+- **Key Stats:** Fastest street circuit, high crash/safety car rate
+- **Note:** Not on 2026 championship schedule. Was a historical Limitless consideration due to low overtakes.

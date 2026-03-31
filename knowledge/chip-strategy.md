@@ -40,7 +40,7 @@ The weekly 2X Boost is always active. Assign it to:
 
 **Best race profile:** Street circuits, wet races, chaotic weekends.
 
-**Strategic timing:** Use early-mid season (Races 4-10) when your team has more volatile value picks who are DNF risks.
+**Strategic timing:** Use early-mid season (Races 4-8) when your team has more volatile value picks who are DNF risks.
 
 ---
 
@@ -59,12 +59,12 @@ The weekly 2X Boost is always active. Assign it to:
 **2025 Top 500 data:** 54% used it at Qatar Sprint. Other popular targets were São Paulo Sprint and US GP Sprint.
 
 **2026 targets (priority order):**
-1. **Netherlands (R14)** — Sprint + high overtakes + Phase 2 budget
-2. **Singapore (R18)** — Final Sprint, but street circuit (lower overtakes)
-3. **Great Britain (R11)** — Sprint, but medium overtakes
+1. **Netherlands (R12)** — Sprint + high overtakes + Phase 2 budget
+2. **Singapore (R16)** — Final Sprint, but street circuit (lower overtakes)
+3. **Great Britain (R9)** — Sprint, but medium overtakes
 4. **China (R2)** — Sprint, but too early (limited intel on driver form)
-5. **Miami (R6)** — Sprint + high overtakes, but early season
-6. **Canada (R7)** — Sprint + medium-high overtakes
+5. **Miami (R4)** — Sprint + high overtakes, but early season
+6. **Canada (R5)** — Sprint + medium-high overtakes
 
 ---
 
@@ -80,9 +80,9 @@ The weekly 2X Boost is always active. Assign it to:
 **2025 Top 500 data:** 48.6% used it at Monaco. Also popular at Hungary.
 
 **2026 targets (priority order):**
-1. **Monaco (R8)** — Lowest overtakes on calendar. Qualifying IS the race.
-2. **Hungary (R13)** — Low-medium overtakes, clean air dominant
-3. **Azerbaijan (R17)** — Street circuit, low overtakes, but chaotic (consider No Negative pairing conflict)
+1. **Monaco (R6)** — Lowest overtakes on calendar. Qualifying IS the race.
+2. **Hungary (R11)** — Low-medium overtakes, clean air dominant
+3. **Azerbaijan (R15)** — Street circuit, low overtakes, but chaotic (consider No Negative pairing conflict)
 
 ---
 
@@ -99,9 +99,8 @@ The weekly 2X Boost is always active. Assign it to:
 **2025 Top 500 data:** 49.2% used it at Azerbaijan (Baku). Street circuits with crash risk are ideal.
 
 **2026 targets:**
-1. **Azerbaijan (R17)** — Chaotic street circuit, crash risk, qualifying accidents common
-2. **Singapore (R18)** — If not using 3X here, Final Fix is strong at a street circuit
-3. **Saudi Arabia (R5)** — Street circuit, but GEOPOLITICAL risk
+1. **Azerbaijan (R15)** — Chaotic street circuit, crash risk, qualifying accidents common
+2. **Singapore (R16)** — If not using 3X here, Final Fix is strong at a street circuit
 
 ---
 
@@ -109,11 +108,11 @@ The weekly 2X Boost is always active. Assign it to:
 
 | Chip | Best Race Type | Top Target | Backup Target | Phase |
 |------|---------------|------------|---------------|-------|
-| Wildcard | After major shakeup | R6-R10 | When team structure breaks | 1→2 transition |
-| 3X Boost | Sprint + high overtakes | Netherlands (R14) | Miami (R6) | Phase 2 |
-| Limitless | Low overtakes, elite dominated | Monaco (R8) | Hungary (R13) | Phase 1-2 |
+| Wildcard | After major shakeup | R4-R8 | When team structure breaks | 1→2 transition |
+| 3X Boost | Sprint + high overtakes | Netherlands (R12) | Miami (R4) | Phase 2 |
+| Limitless | Low overtakes, elite dominated | Monaco (R6) | Hungary (R11) | Phase 1-2 |
 | No Negative | High DNF risk, wet weather | Situational | Any rain race | Early-mid |
-| Final Fix | Street circuit crash risk | Azerbaijan (R17) | Singapore (R18) | Late |
+| Final Fix | Street circuit crash risk | Azerbaijan (R15) | Singapore (R16) | Late |
 | Autopilot | *Not documented in research* | — | — | — |
 
 ## Decision Framework

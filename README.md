@@ -32,7 +32,7 @@ knowledge/          Strategy brain (10 files)
   scoring-system.md     Complete scoring tables
   chip-strategy.md      All 6 chips with deployment targets
   pricing-algorithm.md  How prices change, PPM thresholds
-  circuit-profiles.md   All 24 circuits with overtake tiers
+  circuit-profiles.md   All 22 championship circuits with overtake tiers
   top-player-strategies.md  Alex Pearson P3 blueprint
   season-phases.md      Phase 1 (value) vs Phase 2 (points)
   constructor-evaluation.md  Constructor selection criteria
@@ -43,7 +43,7 @@ knowledge/          Strategy brain (10 files)
 data/               Baseline reference data
   driver-prices.md      Opening season driver prices
   constructor-prices.md Opening season constructor prices
-  race-calendar.md      Full 24-race schedule with Sprint flags
+  race-calendar.md      Full 22-round schedule with Sprint flags
 
 season/             Your team's live state
   team-state.md         Current lineup, budget, chips

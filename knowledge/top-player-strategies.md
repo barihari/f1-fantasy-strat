@@ -37,7 +37,7 @@ Based on analysis of 2025 Top 500 Global League players, particularly the "Alex 
 
 #### 5. Transfer Discipline
 - Pearson took only **2 penalty hits (-10 pts each) all season**
-- This means 22 of 24 races were managed within the free transfer allowance
+- This means nearly all races in his 2025 season were managed within the free transfer allowance (2 penalty hits across the full season)
 - Bank transfers aggressively in Phase 1
 - Plan transfers in 2-3 race blocks, not week-by-week
 

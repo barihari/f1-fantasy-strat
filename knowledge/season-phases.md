@@ -57,7 +57,7 @@ Upgrade when:
 
 ---
 
-## Phase 2: Points Maximization (Races 14-24)
+## Phase 2: Points Maximization (Races 12-22)
 
 ### Goal
 Score maximum weekly points with the strongest possible team.
@@ -71,7 +71,7 @@ Score maximum weekly points with the strongest possible team.
 1. **Points are king.** Value growth no longer matters; only weekly scores count.
 2. **Deploy power chips strategically.** 3X Boost, Limitless, and Final Fix are Phase 2 weapons.
 3. **2X Boost always on your best driver.** In Phase 2, this should be Verstappen, Norris, or Piastri.
-4. **Sprint weekends are super-scoring events.** Netherlands (R14) and Singapore (R18) are key.
+4. **Sprint weekends are super-scoring events.** Netherlands (R12) and Singapore (R16) are key.
 
 ### Phase 2 Transfer Strategy
 - More aggressive transfers to chase form
@@ -86,10 +86,10 @@ Score maximum weekly points with the strongest possible team.
 |-------|-------|-------|-------------|
 | R1-R3 | Phase 1 (Early) | Lock in value structure, gather data | No Negative if needed |
 | R4-R6 | Phase 1 (Mid) | Value building, bank transfers | — |
-| R7-R10 | Phase 1 (Late) | Peak value growth, plan transition | Wildcard (R6-R10) |
-| R11-R14 | Transition | Sell high, buy Tier A dips | Wildcard (if not yet used) |
-| R14-R18 | Phase 2 (Early) | 4A structure active, score hard | 3X Boost, Limitless |
-| R19-R24 | Phase 2 (Late) | Final push, last chips | Final Fix, remaining chips |
+| R7-R10 | Phase 1 (Late) | Peak value growth, plan transition | Wildcard (R4-R8) |
+| R9-R12 | Transition | Sell high, buy Tier A dips | Wildcard (if not yet used) |
+| R12-R16 | Phase 2 (Early) | 4A structure active, score hard | 3X Boost, Limitless |
+| R17-R22 | Phase 2 (Late) | Final push, last chips | Final Fix, remaining chips |
 
 ## Value Growth Projections
 

@@ -41,6 +41,7 @@ The Constructors tab on the create-team page is loaded via JavaScript and can't 
 - **Data:** Official race calendar, session times, schedule changes
 - **Update frequency:** Continuous
 - **Use:** Confirm race dates, check for cancellations/relocations (geopolitical risk monitoring)
+- **If the calendar changes:** Update `data/race-calendar.md`, `web/src/lib/race-utils.ts` (RACE_CALENDAR array), and round references in `knowledge/circuit-profiles.md`, `knowledge/chip-strategy.md`, `knowledge/calendar-risks.md`, and `knowledge/season-phases.md`. This keeps `getNextRace()` and generated briefs aligned with reality.
 
 ### formula1.com/en/results
 - **Data:** Official FP1, FP2, FP3, Qualifying, Sprint, Race results
