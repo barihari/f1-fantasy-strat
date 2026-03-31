@@ -88,7 +88,7 @@ To test the full flow with Race 1 Australia:
 1. Trigger **Tuesday Reminder** — verify you receive the notification with brief + chat links
 2. Open the brief link — verify the race brief page loads with the Australia recommendation
 3. Open the chat link — verify the chatbot responds to messages
-4. Type "locked in" in the chatbot — verify it asks for a screenshot
-5. Upload a screenshot — verify it analyzes and shows green confirmation
+4. Type "locked in" in the chatbot — verify it records lock-in immediately, no screenshot required
+5. (Optional) Upload a screenshot only if a mismatch is flagged — verify analysis and confirmation
 6. Trigger **Safety Net** — verify it does NOT send a nag (since you already locked in)
 7. Check GitHub — verify `season/team-state.md` and `season/decision-log.md` were updated

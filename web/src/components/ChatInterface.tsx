@@ -113,23 +113,14 @@ export default function ChatInterface() {
 
     if (
       (lockInState === "awaiting_screenshot" || lockInState === "mismatch") &&
-      isManualConfirmationMessage(userMessage)
+      (isManualConfirmationMessage(userMessage) || isLockedInMessage(userMessage))
     ) {
       await submitManualConfirmation(userMessage);
       return;
     }
 
     if (isLockedInMessage(userMessage) && lockInState === "idle") {
-      setMessages((prev) => [
-        ...prev,
-        { role: "user", content: userMessage },
-        {
-          role: "assistant",
-          content:
-            "Upload a screenshot of your F1 Fantasy lineup to confirm.\n\nIf upload is not working, reply: \"confirmed no changes\" and I will lock it in.",
-        },
-      ]);
-      setLockInState("awaiting_screenshot");
+      await submitManualConfirmation(userMessage);
       return;
     }
 
@@ -333,7 +324,7 @@ export default function ChatInterface() {
 
       {lockInState === "analyzing" && (
         <div className="flex-none px-4 py-3 border-t border-border text-center text-sm text-muted animate-pulse">
-          Analyzing screenshot...
+          Confirming lock-in...
         </div>
       )}
 
