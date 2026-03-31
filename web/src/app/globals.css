@@ -6,7 +6,7 @@
   --foreground: #e5e5e5;
   --muted: #737373;
   --border: #262626;
-  --accent: #f5a623;
+  --accent: #ff1e00;
   --confirmed: #22c55e;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 .changes-highlight {
-  background: rgba(245, 166, 35, 0.15);
+  background: rgba(225, 6, 0, 0.15);
   border-left: 3px solid var(--accent);
   padding: 1rem;
   margin: 1rem 0;

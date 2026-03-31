@@ -1,6 +1,14 @@
 import { readFile } from "@/lib/github";
-import { getRaceByRound, getRaceSlug, formatRaceLabel } from "@/lib/race-utils";
+import {
+  getRaceByRound,
+  getRaceByLocationSlug,
+  getRaceSlug,
+  formatRaceLabel,
+  getLocationSlug,
+  type RaceInfo,
+} from "@/lib/race-utils";
 import BriefView from "@/components/BriefView";
+import { redirect } from "next/navigation";
 import Link from "next/link";
 
 export const dynamic = "force-dynamic";
@@ -9,10 +17,22 @@ interface PageProps {
   params: Promise<{ raceId: string }>;
 }
 
+function resolveRace(raceId: string): RaceInfo | undefined {
+  const round = parseInt(raceId, 10);
+  if (!isNaN(round)) return getRaceByRound(round);
+  return getRaceByLocationSlug(raceId);
+}
+
 export default async function BriefPage({ params }: PageProps) {
   const { raceId } = await params;
+
   const round = parseInt(raceId, 10);
-  const race = getRaceByRound(round);
+  if (!isNaN(round)) {
+    const race = getRaceByRound(round);
+    if (race) redirect(`/brief/${getLocationSlug(race)}`);
+  }
+
+  const race = resolveRace(raceId);
 
   if (!race) {
     return (
@@ -33,28 +53,18 @@ export default async function BriefPage({ params }: PageProps) {
       <div className="max-w-2xl mx-auto px-4 py-6">
         <header className="pb-4 border-b border-border mb-6">
           <h1 className="text-lg font-medium">{formatRaceLabel(race)}</h1>
-          <p className="text-sm text-muted">{race.location} — {race.dates}</p>
+          <p className="text-sm text-muted">
+            {race.location} — {race.dates}
+          </p>
         </header>
         <p className="text-muted text-sm">
           Brief not generated yet. Check back after the Tuesday reminder fires.
         </p>
-        <Link href="/chat" className="text-sm text-accent mt-4 inline-block">
-          Open Chat
-        </Link>
       </div>
     );
   }
 
   const hasChanges = content.includes("## Changes Since Tuesday");
 
-  return (
-    <div>
-      <div className="max-w-2xl mx-auto px-4 pt-4">
-        <Link href="/chat" className="text-xs text-muted hover:text-foreground">
-          ← Chat
-        </Link>
-      </div>
-      <BriefView content={content} hasChanges={hasChanges} />
-    </div>
-  );
+  return <BriefView content={content} hasChanges={hasChanges} />;
 }

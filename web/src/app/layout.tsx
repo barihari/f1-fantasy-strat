@@ -1,5 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import NavTabs from "@/components/NavTabs";
+import ScrollRestore from "@/components/ScrollRestore";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -33,6 +35,8 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background text-foreground`}
       >
+        <NavTabs />
+        <ScrollRestore />
         {children}
       </body>
     </html>
