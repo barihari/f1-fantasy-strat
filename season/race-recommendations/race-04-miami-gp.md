@@ -1,86 +1,86 @@
 # Brief — Race 4: Miami GP
 
-**Miami International Autodrome | May 1-3 | Sprint: Yes**
+**Miami International Autodrome | May 1-3, 2026 | Sprint: Yes**
 
 ---
 
 ## Executive Summary
 
-**Circuit Profile:** Semi-permanent street circuit, high overtakes, Sprint weekend, early-season value building target
+**Circuit Profile:** Semi-permanent street circuit, high overtakes, Sprint weekend, excellent scoring potential for value picks
 
-**Weather:** Hot and humid (30°C+), occasional Florida afternoon thunderstorms. **Rain probability: 20%.** Forecast appears dry but monitor Friday updates.
+**Weather:** Clear skies, 28°C. Rain probability: 5%. Ideal racing conditions expected.
 
-**Strategic Focus:** Sprint weekend in Phase 1 creates premium scoring opportunities while maintaining value-building discipline — use high overtake count to extract maximum PPM from Tier B assets.
+**Strategic Focus:** Sprint weekend maximizes scoring sessions. High overtake count favors position-gain specialists over pure qualifiers. Perfect opportunity for value picks to deliver outsized returns.
 
 ---
 
 ## Circuit Analysis
 
 ### Track Characteristics
-- **Length:** 5.4km, 57 laps
-- **Overtake Zones:** Multiple long straights, wide track sections, historically 50+ overtakes per race
-- **Key Features:** High-speed sections mixed with tight corners, concrete barriers, artificial marina backdrop
-- **Historical Avg:** 50+ overtakes (high tier)
+- **Length:** 5.41km, 57 laps
+- **Overtake Zones:** Long main straight (DRS historically), multiple passing opportunities through stadium section and chicane complex
+- **Key Features:** High-speed straights combined with tight technical sections, abrasive surface creates tire degradation
+- **Historical Avg:** 50+ overtakes per race
 
 ### 2026 Regulation Impact
-- Active aero on all three main straights will increase natural overtaking beyond historical data
-- Energy management crucial on long straights — teams with superior Boost Mode deployment gain passing advantage
-- 50m no-MGU-K start rule increases first-lap position changes at a circuit where grid position matters less
-- Reduced downforce makes slipstreaming more effective on the back straight
+- Active aero on main straight benefits all drivers equally (no 1-second proximity rule)
+- Energy management critical due to long straights demanding high electrical deployment
+- Boost Mode will be heavily used on main straight for overtaking moves
+- Race starts more volatile (no MGU-K first 50m) — expect first-lap position changes
 
 ### Weather Forecast
-**Current:** Sunny, 31°C. **Rain probability: 20%.** Florida's afternoon storm pattern typically hits 3-5pm — could affect Sunday race more than Sprint Saturday.
+**Current:** Clear, 28°C. **Rain probability: 5%.** Stable high-pressure system over South Florida. Negligible weather risk.
 
 ---
 
 ## Power Unit Supplier Analysis
 
 ### Strongest Performers
-1. **Mercedes** (Mercedes, McLaren, Williams, Alpine) — FP1/FP2 dominant across all customer teams. Compression ratio advantage appears real on high-speed circuits.
-2. **Ferrari** (Ferrari, Haas, Cadillac) — Leclerc fastest single lap in testing. Ferrari PU historically strong at Miami's power-sensitive layout.
-3. **Red Bull/Ford** (Red Bull, Racing Bulls) — Solid practice pace but unclear race distance reliability. Verstappen transcends PU limitations.
+1. **Mercedes** (Mercedes, McLaren, Williams, Alpine) — Dominant FP1/FP2 pace continues. Compression ratio advantage appears real.
+2. **Ferrari** (Ferrari, Haas, Cadillac) — Leclerc's testing form translating to race weekends. Strong energy deployment efficiency.
+3. **Red Bull/Ford** (Red Bull, Racing Bulls) — Solid race pace but unclear if best-of-rest or genuine challenger to Mercedes/Ferrari.
 
 ### Crisis Zone
-- **Honda** (Aston Martin) — Multiple failures in testing, planned early retirements at Australia. **AVOID ALL ASTON MARTIN ASSETS.**
+- **Honda** (Aston Martin) — Multiple reliability issues continue. Alonso planning conservative approach. **AVOID ALL ASTON MARTIN ASSETS.**
 
 ### Unknown
-- **Audi** (Audi) — Limited long-run data. New manufacturer could struggle with energy deployment complexity on a power circuit.
+- **Audi** (Audi) — Limited representative data. Hulkenberg providing solid feedback but pace ceiling unknown.
 
 ---
 
 ## Key Storylines
 
-### 1. Sprint Weekend Value Multiplication
-Miami offers 3 scoring sessions (Sprint Qualifying + Sprint + Race) for Tier B assets to accumulate PPM. A driver scoring 8+8+15 = 31 points at $7M hits 4.4 PPM — well above the 0.40 threshold for maximum +$0.6M gain.
+### 1. Sprint Weekend Value Explosion
+Three scoring sessions mean position-gain drivers can accumulate massive points. Historical Sprint weekends see 20-30% higher fantasy scores for overtake specialists. Bearman and Ocon (both Haas) are positioned perfectly for this profile.
 
-### 2. Hadjar vs Lawson Tier B Battle
-Both Red Bull academy drivers at similar prices ($15.1M vs $6.5M) but vastly different value trajectories. Lawson's lower price means easier PPM thresholds while Racing Bulls showed strong FP2 pace. Hadjar carries Red Bull's second-seat curse.
+### 2. Hadjar's Red Bull Proving Ground
+Miami's high-speed nature suits Red Bull's philosophy, but Hadjar needs to prove he belongs in the second seat. High ownership (32%) means his performance significantly impacts many teams. Failure here increases pressure on the historically cursed position.
 
-### 3. Mercedes PU Domination Confirmation
-If Mercedes-powered teams (Russell, Norris, Sainz, Gasly) sweep the top-8 across all three sessions, the PU advantage becomes undeniable. This would trigger aggressive transfer targeting toward Mercedes assets in subsequent races.
+### 3. Mercedes PU Dominance Test
+If Mercedes-powered cars (Russell, Norris, Sainz, Gasly) dominate across three sessions, it confirms the compression ratio advantage. This would validate heavy Mercedes PU exposure for remaining season phases.
 
-### 4. Ferrari Home Straight Performance
-Miami's longest straight (1.2km) will test Ferrari's claimed power advantage. If Leclerc and Bearman (Haas) consistently gain positions on the back straight, Ferrari PU assets become even more valuable for high-speed circuits ahead.
+### 4. Leclerc 2X Boost Ceiling
+Miami historically favors Ferrari (Leclerc pole 2022, podium 2023). With Sprint qualifying + Sprint + Race, a strong Leclerc weekend on 2X could deliver 80+ effective points. Critical test of the anchor strategy.
 
-### 5. Active Aero Learning Curve
-First high-overtake circuit of 2026. Teams still learning optimal X-Mode/Z-Mode timing. Expect more overtakes than historical average as active aero eliminates the "following car" disadvantage that previously limited passing.
+### 5. Value Pick Differentiation Window
+High overtakes + Sprint format creates ideal conditions for Tier B drivers to separate from the field. Bearman (56% owned), Hulkenberg (39% owned), and Ocon (15% owned) face different ownership expectations.
 
 ---
 
 ## Current Team Analysis
 
 ### Strengths
-- Ferrari PU exposure (4 assets) positioned well for Miami's power-sensitive layout
-- Bearman/Hulkenberg value picks primed for high-overtake PPM accumulation
-- Leclerc 2X boost on a Sprint weekend maximizes scoring across 3 sessions
+- Ferrari PU exposure (Leclerc, Bearman, constructors) aligns with confirmed competitive supplier
+- Sainz provides Mercedes PU access at Williams without premium pricing
+- Three-session scoring weekend favors the position-gain oriented value structure
 
 ### Risks
-- Hadjar at $15.1M is overpriced for uncertain Red Bull second-seat performance
-- Heavy Ferrari PU concentration (57% of team) creates single-supplier dependency
-- Only $5.4M budget remaining limits transfer flexibility if adjustments needed
+- Hadjar (Red Bull/Ford PU) isolated if that supplier struggles with energy management
+- Heavy Ferrari constructor exposure (Ferrari + Haas) creates single-point-of-failure risk
+- No McLaren assets despite their Sprint weekend historical strength
 
 ### 2X Boost Placement
-**Charles Leclerc** — Testing form leader on a circuit that rewards Ferrari's power advantage. Sprint weekend multiplies the 2X across three sessions for maximum scoring upside.
+**Charles Leclerc** — Circuit suits Ferrari pace, Sprint weekend multiplies scoring across three sessions, testing form suggests genuine competitiveness.
 
 ---
 
@@ -89,49 +89,49 @@ First high-overtake circuit of 2026. Teams still learning optimal X-Mode/Z-Mode 
 ### Pre-Race Scouting (FP1/FP2)
 **Priority intel to gather:**
 
-1. Mercedes PU pace confirmation across all four customer teams
-2. Lawson vs Hadjar long-run comparison — who has better race pace?
-3. Aston Martin reliability issues — any more engine failures?
-4. Energy deployment patterns — which teams fade in final stint?
-5. Actual overtake frequency vs historical data with active aero
+1. Energy deployment efficiency by PU supplier (who fades in final sector?)
+2. Mercedes PU cars' pace advantage magnitude across all four teams
+3. Haas upgrade package impact on Bearman/Ocon relative pace
+4. Hadjar vs Verstappen gap in identical Red Bull machinery
+5. Sprint qualifying pace vs race pace correlation (tire degradation impact)
 
 ### Transfer Strategy
-**Recommendation: USE 1 of 2 FREE TRANSFERS**
+**Recommendation: BANK BOTH FREE TRANSFERS**
 
-Execute the Hadjar → Lawson move to improve value efficiency and reduce Red Bull second-seat risk.
+Current lineup is well-positioned for Miami's profile. Value picks should score heavily in Sprint format, and no major form reversals evident from Australian GP data.
 
 **Only transfer if:**
-- Lawson shows competitive FP2 pace (within 0.5s of teammate)
-- No grid penalties or reliability concerns for Lawson
-- Budget math works for Monaco Limitless deployment at R6
+- Hadjar shows mechanical issues in FP1/FP2 (Red Bull reliability concern)
+- Hulkenberg pace significantly off teammates (Audi PU deficit confirmed)
+- Weather forecast changes to wet (would favor different driver skill sets)
 
 ### Chip Strategy
-**No chips recommended** — Reserve 3X Boost for Netherlands Sprint (R12) when Phase 2 budget supports premium driver on the boost. Save Limitless for Monaco (R6).
+**No chips recommended** — Save 3X Boost for Netherlands R12 (Sprint + Phase 2 budget). Miami is too early for optimal chip deployment.
 
-Upcoming chip deployment targets:
-- **Limitless at Monaco (R6)** — lowest overtake circuit, qualifying determines race result
-- **3X Boost at Netherlands (R12)** — Sprint + high overtakes + Phase 2 premium structure
-- **Final Fix at Azerbaijan (R15)** — street circuit crash risk
+Forward chip calendar:
+• **Limitless** → Monaco R6 (lowest overtakes, elite-favored)
+• **3X Boost** → Netherlands R12 (Sprint + high overtakes + Phase 2)
+• **Final Fix** → Azerbaijan R15 (crash risk at street circuit)
 
 ---
 
 ## Lineup Recommendations
 
-### Recommended Changes
+### Keep Current Structure
 
-Execute the planned Hadjar → Lawson swap to improve value trajectory and reduce second-seat risk.
+All assets appropriately positioned for Miami's Sprint + high-overtake profile.
 
 | Slot | Current | Alternative | Recommendation |
 |------|---------|-------------|----------------|
-| Driver 1 (2X) | **Leclerc** | Russell | **KEEP** — Testing form + Ferrari PU advantage |
-| Driver 2 | **Hadjar** | Lawson | **SWAP** — Better value efficiency, lower price risk |
-| Driver 3 | **Sainz** | Antonelli | **KEEP** — Williams-Mercedes combo strong |
-| Driver 4 | **Bearman** | Ocon | **KEEP** — Value building on track, high overtakes suit him |
-| Driver 5 | **Hulkenberg** | Bortoleto | **KEEP** — Consistent PPM accumulator |
-| Constructor 1 | **Ferrari** | McLaren | **KEEP** — Testing pace + both drivers competitive |
-| Constructor 2 | **Haas** | Racing Bulls | **KEEP** — Ocon/Bearman value building continues |
+| Driver 1 (2X) | **Leclerc** | Russell | **KEEP** — Ferrari pace + Sprint multiplier |
+| Driver 2 | **Hadjar** | Lawson | **KEEP** — Monitor FP2, no clear upgrade path |
+| Driver 3 | **Sainz** | Albon | **KEEP** — Mercedes PU exposure valuable |
+| Driver 4 | **Bearman** | Ocon | **KEEP** — Both Haas drivers viable, 56% ownership |
+| Driver 5 | **Hulkenberg** | Bortoleto | **KEEP** — Veteran consistency over rookie volatility |
+| Constructor 1 | **Ferrari** | McLaren | **KEEP** — Testing form + reasonable pricing |
+| Constructor 2 | **Haas** | Racing Bulls | **KEEP** — Value constructor with Sprint upside |
 
-**One transfer recommended — Hadjar out, Lawson in.**
+**No changes recommended.**
 
 ---
 
@@ -139,55 +139,55 @@ Execute the planned Hadjar → Lawson swap to improve value trajectory and reduc
 
 ### Likely Scoring Scenarios
 
-**Conservative (65-80 pts):** Standard Sprint weekend with current structure. Value picks score 5-8 points each across 3 sessions, Leclerc delivers 25+ on 2X boost.
+**Conservative (85-95 pts):** Leclerc P3-P5 across sessions, value picks gain 2-4 positions each, constructors deliver baseline scoring with modest pitstop bonuses.
 
-**Target (80-95 pts):** Miami's high overtakes favor the lineup. Bearman/Hulkenberg gain positions in both Sprint and Race. Ferrari PU advantage materializes for Leclerc podium push.
+**Target (100-115 pts):** Leclerc podium in Race + strong Sprint, Bearman/Sainz each gain 5+ positions over three sessions, Ferrari/Haas both score Q3 bonuses and fast pitstops.
 
-**Optimistic (95+ pts):** Perfect Sprint weekend execution. Multiple value picks score 30+ points across 3 sessions, Leclerc wins or podiums on 2X boost, constructors deliver both-in-Q3 bonuses.
+**Optimistic (120+ pts):** Leclerc wins Sprint or Race (2X boosted), multiple value picks deliver 8+ position gains, Mercedes PU advantage elevates Sainz, perfect execution weekend.
 
 ### Key Variables
-- Weather window — afternoon storms could hit Sunday Race but miss Saturday Sprint
-- Active aero learning curve — more overtakes than historical 50+ average expected
-- Energy deployment strategy — which teams have superior Boost Mode management?
-- Safety car frequency — street circuit with barriers, Sprint races tend to be clean
-- Ferrari vs Mercedes PU battle on the main straight — determines constructor hierarchy
+- Energy deployment efficiency differences between PU suppliers becoming apparent
+- Sprint qualifying creating grid position variance for Sunday
+- Safety car likelihood in stadium section (wall proximity)
+- Tire degradation impact varying across the three sessions
+- First-lap chaos potential with new MGU-K start rules
 
 ---
 
 ## Post-Race Action Items
 
 ### Immediate (Sunday Evening)
-1. Log actual overtake count vs historical baseline (50+ expected)
-2. Record energy management observations — which teams faded in final stint?
-3. Document Ferrari vs Mercedes PU straight-line performance
-4. Track Lawson vs Hadjar head-to-head comparison (if transfer executed)
+1. Record actual overtake count vs 50+ historical average (2026 regulation impact)
+2. Log energy management performance by PU supplier (who faded when?)
+3. Note pitstop performance for Ferrari and Haas constructors
+4. Document Hadjar pace vs Verstappen delta for second seat evaluation
 
 ### Monday Analysis
-1. Update Miami circuit profile overtake tier if significantly different from 50+ baseline
-2. Calculate 3-session PPM for all Tier B value picks
-3. Assess Mercedes PU dominance level across customer teams
-4. Review Sprint vs Race pace differential for each driver
+1. Update PU supplier rankings based on three-session data
+2. Assess value pick price change predictions using Budget Builder
+3. Compare Sprint vs Race pace correlation for circuit type classification
+4. Evaluate whether Mercedes PU advantage is sustainable or circuit-specific
 
-### Transfer Window (Before R5 Canada Lock)
-- Monitor Antonelli vs Russell debate — FP2 Canada pace will be decisive
-- Check for any Aston Martin reliability improvements (unlikely)
-- Evaluate if Lawson transfer (if made) generated expected value
-- Prepare Monaco Limitless deployment logistics
+### Transfer Window (Before R5 Lock)
+- Monitor Hadjar price movement and form trend
+- Check if any value picks exceeded +$0.6M price change threshold
+- Assess whether Canadian GP (Sprint + rain risk) demands lineup adjustment
+- Consider Lawson alternative if Racing Bulls showed Sprint weekend pace
 
 ---
 
 ## Success Metrics
 
-**Primary Goal:** Maintain value-building trajectory while scoring competitively on Sprint weekend — target 75+ points with continued PPM accumulation from Tier B assets.
+**Primary Goal:** Score 95+ points to maintain Phase 1 value-building trajectory while gathering crucial 2026 regulation intel.
 
 **Secondary Goals:**
-- Confirm Ferrari PU competitiveness for upcoming high-speed circuits
-- Generate data on Lawson value trajectory (if transferred)
-- Bank intel on Mercedes customer team hierarchy
-- Position team structure optimally for Monaco Limitless deployment
+- Validate Ferrari PU competitive status across three sessions
+- Confirm Bearman/Hulkenberg value pick viability for continued Phase 1 exposure  
+- Generate price growth on 2+ Tier B assets to fund Phase 2 transition
+- Establish Sprint weekend scoring baseline for future 3X Boost deployment
 
-**Avoid:** Panic transfers after one session, chip deployment pressure, or abandoning Phase 1 value discipline for short-term Sprint points.
+**Avoid:** Panic transfers based on single-session pace. Sprint weekends create scoring volatility that requires patience and three-session perspective.
 
 ---
 
-*Next Brief: Round 5 Canadian GP (Sprint) — Montreal rain risk creates No Negative opportunities while Antonelli vs Russell decision point arrives.*
+*Next Brief: Round 5 Canadian GP (Sprint) — Weather-dependent strategy with high DNF risk creating potential No Negative deployment opportunity*
