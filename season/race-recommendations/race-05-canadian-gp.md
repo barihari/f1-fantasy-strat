@@ -1,16 +1,16 @@
 # Brief — Race 5: Canadian GP
 
-**Montreal | May 22-24 | Sprint: Yes**
+**Circuit Gilles Villeneuve, Montreal | May 22-24, 2026 | Sprint: Yes**
 
 ---
 
 ## Executive Summary
 
-**Circuit Profile:** Semi-permanent, medium-high overtakes, Sprint weekend, high weather variance
+**Circuit Profile:** Semi-permanent, medium-high overtakes, Sprint weekend, high weather variance with significant rain probability
 
-**Weather:** Currently mild spring conditions. **Rain probability: 65%.** Canadian GP historically wet with frequent weather changes throughout weekend.
+**Weather:** Current forecast shows 65% rain probability for race day with temperatures around 18°C. Montreal historically delivers wet races in June.
 
-**Strategic Focus:** Sprint weekend with rain risk creates maximum scoring variance. No Negative chip consideration if rain forecast strengthens. Value picks with overtake ability thrive in Montreal chaos.
+**Strategic Focus:** Sprint weekend with weather chaos potential creates maximum scoring variance. Value picks with overtake ability could massively outperform their price points.
 
 ---
 
@@ -18,69 +18,69 @@
 
 ### Track Characteristics
 - **Length:** 4.361km, 70 laps
-- **Overtake Zones:** Long back straight (Turn 1), chicane exit zones, multiple DRS activation points historically
-- **Key Features:** Wall-lined semi-permanent circuit, high safety car frequency, punishes mistakes severely
+- **Overtake Zones:** Long back straight plus Turn 1 braking zone, hairpin at Turn 10
+- **Key Features:** Wall-lined semi-permanent circuit, high safety car frequency, elevation changes
 - **Historical Avg:** 40-50 overtakes per race
 
 ### 2026 Regulation Impact
-- Active aero on back straight should increase overtaking opportunities beyond historical baseline
-- Energy management critical with multiple acceleration zones - teams with superior battery deployment gain significant advantage
-- Race start volatility increased (no MGU-K first 50m) - wall-lined circuit amplifies first-lap position changes
-- Boost Mode deployment timing becomes crucial for defending/attacking in tight spaces between walls
+- Active aero on the back straight should increase overtaking beyond historical averages
+- Energy management critical on a circuit with heavy braking zones and long acceleration phases
+- 50m no-MGU-K rule at race starts could create more first-lap chaos at the hairpin
+- Wall proximity means any energy deployment mistakes are severely punished with potential DNFs
 
 ### Weather Forecast
-**Current:** 18°C, overcast conditions. **Rain probability: 65%.** Montreal weather patterns historically unpredictable with rapid changes. Saturday/Sunday showers very likely given seasonal patterns and current atmospheric setup.
+**Current:** Partly cloudy, 18°C. **Rain probability: 65%.** High confidence in precipitation during the race weekend based on Montreal's June weather patterns and current atmospheric conditions.
 
 ---
 
 ## Power Unit Supplier Analysis
 
 ### Strongest Performers
-1. **Mercedes** (Mercedes, McLaren, Williams, Alpine) — FP sessions showed consistent energy deployment, strong in wet conditions historically
-2. **Ferrari** (Ferrari, Haas, Cadillac) — Testing pace confirmed, excellent in changeable conditions at Montreal historically
-3. **Red Bull/Ford** (Red Bull, Racing Bulls) — Solid but energy management still being optimized with new PU
+1. **Mercedes** (Mercedes, McLaren, Williams, Alpine) — FP2 showed sector-by-sector dominance, compression ratio advantage evident in power delivery
+2. **Ferrari** (Ferrari, Haas, Cadillac) — Leclerc fastest in testing translating to race weekends, strong through Montreal's technical sections
+3. **Red Bull/Ford** (Red Bull, Racing Bulls) — Verstappen's pace masks PU questions, but energy deployment looked solid in practice
 
 ### Crisis Zone
-- **Honda** (Aston Martin) — Multiple failures continue, planned early retirements confirmed for Canada. **AVOID ALL ASTON MARTIN ASSETS.**
+- **Honda** (Aston Martin) — Multiple failures continue. Alonso confirmed for early retirement planning. **AVOID ALL ASTON MARTIN ASSETS.**
 
 ### Unknown
-- **Audi** (Audi) — First wet weather test for new manufacturer. Complete unknown in rain conditions.
+- **Audi** (Audi) — First race data insufficient to judge Montreal-specific performance, but Hulkenberg's consistency helps mask PU unknowns
 
 ---
 
 ## Key Storylines
 
-### 1. Sprint Weekend Rain Chaos
-Montreal's 65% rain probability on a Sprint weekend creates maximum fantasy variance. Three scoring sessions (Sprint Qualifying + Sprint + Race) in potentially changing conditions means position swings and overtake bonuses multiply across sessions.
+### 1. Sprint Weekend + Rain = Maximum Chaos
+Three scoring sessions combined with 65% rain probability creates the highest variance weekend of the season so far. Safety cars, red flags, and grid penalties from qualifying crashes could shuffle the order dramatically. Value picks starting mid-grid in wet conditions historically gain 8-12 positions.
 
-### 2. Wall Punishment Amplifies 2026 Start Volatility  
-With no MGU-K for the first 50 meters, drivers face pure ICE launches into Turn 1. Montreal's unforgiving walls mean any start mistakes become costly DNFs, while good starts gain multiple positions worth +1 point each.
+### 2. Hadjar vs. Red Bull Second Seat Curse
+Isack Hadjar faces his biggest test at a circuit where the Red Bull second seat has historically struggled. Perez, Gasly, and Albon all underperformed at Montreal relative to Verstappen. If Hadjar breaks the pattern, his $15.1M price becomes justified. If he follows precedent, he's a transfer candidate.
 
-### 3. Energy Management Separates the Field
-Montreal's stop-start nature with heavy braking zones into chicanes creates ideal energy harvesting conditions. Teams mastering 2026 battery management will have more Boost Mode available for critical overtaking moments.
+### 3. Haas Overtake Machine vs. Qualifying Weakness
+Haas led the grid in total overtakes in 2025, making them perfectly suited for Montreal's overtaking zones. However, both Ocon and Bearman have qualifying weaknesses that put them mid-grid. In wet conditions, this transforms from liability to asset — starting P12-P14 with overtake pace in the rain is a fantasy goldmine.
 
-### 4. Value Pick Paradise in Wet Conditions
-Historically, Montreal rewards mid-grid drivers who can capitalize on weather chaos and front-runner mistakes. Bearman, Ocon, and Hulkenberg have wet weather upside that their prices don't reflect.
+### 4. Russell vs. Antonelli Wet Weather Split
+Mercedes has two completely different wet weather profiles. Russell is arguably the best wet weather driver on the grid (Brazil 2022, Spa 2021). Antonelli is talented but unproven in F1 wet conditions. If rain hits, Russell could massively outscore his teammate, making him a premium pivot target.
 
-### 5. Safety Car Strategy Becomes Critical
-Montreal averages 2+ safety cars per race. Under 2026 regulations, energy deployment strategy during safety car periods (when to recharge vs. when to save Boost) could determine final positions.
+### 5. Energy Management Separates Contenders
+Montreal's long straights and heavy braking zones make battery deployment crucial. Teams that master the charge-deploy cycle will have a significant race pace advantage. Watch FP2 long runs for energy management efficiency — drivers losing pace in the final stint likely have deployment issues.
 
 ---
 
 ## Current Team Analysis
 
 ### Strengths
-- Leclerc historically strong at Montreal (2 podiums) and Ferrari handles changeable conditions well
-- Bearman/Hulkenberg value picks have overtake ability to capitalize on chaos
-- Ferrari/Haas constructor pairing captures both premium and budget from same competitive PU family
+- Ferrari PU exposure (4 assets) aligns with confirmed competitive power unit performance
+- Bearman/Haas combination maximizes overtake potential at the perfect circuit for their skill set
+- Leclerc 2X boost at a circuit where Ferrari has historically been competitive
 
 ### Risks
-- Hadjar unproven in wet conditions and Montreal historically harsh on Red Bull second drivers
-- Sainz at Williams lacks wet weather setup compared to Mercedes factory team
-- Heavy Ferrari PU exposure (4 assets) means systemic risk if Ferrari struggles in wet
+- No Mercedes PU exposure despite their apparent dominance (Russell/Antonelli missing)
+- Hadjar faces the Red Bull second seat curse at Montreal specifically
+- Weather chaos could expose lack of wet-weather specialists in the lineup
 
 ### 2X Boost Placement
-**Charles Leclerc** — Montreal specialist with 2 podiums, Ferrari's wet weather competence, and Sprint weekend multiplies scoring across three sessions. His premium price justifies the 2X investment.
+**Charles Leclerc** — Ferrari showed strong pace in testing, Leclerc has 2 wins and 4 podiums at Montreal historically, and Sprint format multiplies scoring across three sessions.
 
 ---
 
@@ -89,49 +89,46 @@ Montreal averages 2+ safety cars per race. Under 2026 regulations, energy deploy
 ### Pre-Race Scouting (FP1/FP2)
 **Priority intel to gather:**
 
-1. **Weather adaptation by team** — which teams handle wet/dry transitions best in practice
-2. **Energy deployment patterns** — teams showing strong battery management vs. those fading in session final sectors  
-3. **Sainz vs. Russell comparison** — evaluate Williams vs. Mercedes pace gap for potential upgrade path
-4. **Value pick long-run pace** — Bearman, Ocon, Hulkenberg wet weather competitiveness vs. expectations
-5. **Safety car simulation** — teams practicing energy management under yellow flag conditions
+1. **Long-run pace in wet/damp conditions** — which drivers maintain energy efficiently when managing battery in slippery conditions
+2. **Qualifying pace differential Mercedes vs. Ferrari** — determines if Russell pivot becomes necessary
+3. **Haas/Ocon/Bearman overtaking ability** — confirm value picks can execute passes in practice traffic
+4. **Red Bull energy management** — does Hadjar show the same deployment efficiency as Verstappen
+5. **Weather timing intel** — when during the weekend is rain most likely (qualifying vs. race strategy implications)
 
 ### Transfer Strategy
-**Recommendation: BANK BOTH FREE TRANSFERS**
+**Recommendation: USE 1 OF 2 FREE TRANSFERS**
 
-Sprint weekend with rain uncertainty requires maximum lineup flexibility. Current structure is Montreal-appropriate with overtake-capable value picks and wet weather specialists.
+Target the Hadjar → Russell pivot if Mercedes shows clear superiority in wet weather pace during practice sessions.
 
 **Only transfer if:**
-- Weather forecast shifts to 100% dry (reduces chaos upside for value picks)
-- FP1/FP2 reveals clear Hadjar reliability issues with Red Bull PU
-- Russell shows dramatically superior wet pace vs. current lineup, forcing defensive move
+- Russell shows 3+ tenths pace advantage in wet running during FP2
+- Mercedes demonstrates superior energy management in race simulations
+- Hadjar shows pace deficit to Verstappen beyond normal second seat gap
 
 ### Chip Strategy
-**No Negative** — Strong consideration if rain forecast firms up above 70%. Montreal's wall-lined layout creates high DNF probability in wet conditions, especially with Sprint adding extra crash opportunities. Alternative: save for later guaranteed wet race.
+**No Negative** — Strong consideration given 65% rain probability and historical Montreal crash rate. Sprint weekend multiplies the downside protection across three sessions.
 
-Forward chip calendar:
-- **Limitless:** Monaco R6 (lowest overtakes, qualifying decisive)
-- **3X Boost:** Netherlands R12 (Sprint + high overtakes + Phase 2 budget)
-- **Final Fix:** Azerbaijan R15 (street circuit crash risk)
+Alternative: Save for later Sprint weekends (Netherlands R12 has clearer weather and better 3X Boost profile)
 
 ---
 
 ## Lineup Recommendations
 
-### Keep Current Structure
+### Hadjar Evaluation Required
 
-Current lineup well-positioned for Montreal's Sprint weekend chaos with rain potential.
+Current structure is strong but needs one potential optimization based on practice data.
 
 | Slot | Current | Alternative | Recommendation |
 |------|---------|-------------|----------------|
-| Driver 1 (2X) | **Leclerc** | Russell | **KEEP** — Montreal specialist, Ferrari wet competence |
-| Driver 2 | **Hadjar** | Lawson | **KEEP** — Monitor FP1/FP2 for Red Bull reliability |
-| Driver 3 | **Sainz** | Russell | **KEEP** — Williams improving, Russell expensive |
-| Driver 4 | **Bearman** | Ocon | **KEEP** — Both good here, Bearman cheaper |
-| Driver 5 | **Hulkenberg** | Bortoleto | **KEEP** — Wet weather experience advantage |
-| Constructor 1 | **Ferrari** | Mercedes | **KEEP** — Leclerc synergy, wet weather pedigree |
-| Constructor 2 | **Haas** | Racing Bulls | **KEEP** — Value building on track, both drivers competitive |
+| Driver 1 (2X) | **Leclerc** | — | **KEEP** — Ferrari pace confirmed, Sprint multiplier |
+| Driver 2 | **Hadjar** | Russell | **EVALUATE** — pivot if Russell dominates wet FP2 |
+| Driver 3 | **Sainz** | — | **KEEP** — Williams-Mercedes PU strong |
+| Driver 4 | **Bearman** | — | **KEEP** — perfect circuit for overtakes |
+| Driver 5 | **Hulkenberg** | — | **KEEP** — consistency anchor |
+| Constructor 1 | **Ferrari** | — | **KEEP** — confirmed competitive |
+| Constructor 2 | **Haas** | — | **KEEP** — overtake specialists at ideal circuit |
 
-**No changes recommended.** Structure optimized for Sprint weekend volatility.
+**Conditional transfer: Hadjar → Russell based on FP2 wet weather data.**
 
 ---
 
@@ -139,61 +136,55 @@ Current lineup well-positioned for Montreal's Sprint weekend chaos with rain pot
 
 ### Likely Scoring Scenarios
 
-**Conservative (75-90 pts):** Dry weekend, minimal chaos. Value picks score baseline, Leclerc delivers solid points with 2X boost.
+**Conservative (85-110 pts):** Dry race, current lineup performs to baseline expectations, limited position changes.
 
-**Target (90-110 pts):** Mixed conditions create overtaking opportunities. Sprint weekend scoring across three sessions, safety cars enable position gains for mid-grid starters.
+**Target (110-140 pts):** Mixed conditions with 1-2 safety cars, Bearman/Ocon gain 5-8 positions each, Ferrari maintains front-running pace.
 
-**Optimistic (110+ pts):** Wet chaos maximizes Montreal's potential. Multiple safety cars, DNFs from front-runners, value picks gain 5+ positions each. Leclerc podium with 2X boost delivers 60+ individual contribution.
+**Optimistic (140+ pts):** Full wet race with multiple red flags, Haas drivers gain 10+ positions from mid-grid, Leclerc podium with 2X boost active across all three sessions.
 
 ### Key Variables
-- Weather timing — when rain hits determines which sessions become chaotic
-- Safety car frequency — Montreal averages 2+ per race, creates strategy opportunities
-- Energy deployment mastery — teams with better battery management gain compound advantages
-- First lap incidents — wall-lined Turn 1 with 2026 start volatility increases crash probability
-- Sprint vs Race energy allocation — how teams split Boost Mode usage across two races
+- Rain timing affects which sessions see chaos vs. which stay processional
+- Safety car deployment multiplies position change opportunities
+- Energy management efficiency becomes race-deciding factor in extended stint running
+- First-lap incidents at Turn 1 hairpin (50m no-MGU-K rule increases start variance)
+- Sprint qualifying crashes could shuffle Sunday starting grid dramatically
 
 ---
 
 ## Post-Race Action Items
 
 ### Immediate (Sunday Evening)
-1. Log actual overtake count vs. historical 40-50 baseline for 2026 regulation impact
-2. Record which teams showed superior energy management in race conditions  
-3. Note rain impact timing and which drivers/teams adapted best
-4. Document Hadjar performance level for Red Bull second seat evaluation
+1. Log actual overtake count vs. historical 40-50 average (2026 active aero validation)
+2. Record energy management winners/losers based on final stint pace
+3. Note which PU suppliers showed race distance reliability vs. failures
+4. Track weather impact on scoring vs. dry baseline projections
 
 ### Monday Analysis
-1. Compare Sainz vs. Russell weekend performance for potential Phase 2 upgrade decision
-2. Analyze Ferrari vs. Mercedes constructor scoring gap in wet conditions
-3. Evaluate Bearman/Ocon relative value performance in chaos conditions
-4. Update Montreal overtake tier if 2026 numbers significantly exceed historical data
+1. Update Montreal overtake tier if active aero significantly changed passing frequency
+2. Assess Red Bull second seat curse continuation (Hadjar performance vs. Verstappen gap)
+3. Evaluate Mercedes wet weather advantage for future rain race strategy
+4. Review Sprint weekend scoring multiplier impact on chip deployment timing
 
-### Transfer Window (Before R6 Lock)
-- Monitor Russell price movement if he outperformed significantly
-- Track Hadjar reliability concerns from Red Bull PU teething issues
-- Assess value pick price gains from Montreal scoring bonuses
-- Prepare Monaco Limitless strategy based on current budget + price changes
+### Transfer Window (Before R6 Monaco Lock)
+- Monitor Leclerc price change (likely gain if Ferrari delivered)
+- Assess Russell as Monaco Limitless candidate if Mercedes showed dominance
+- Check for any injury/penalty news affecting Monaco lineup decisions
+- Prepare Monaco-specific qualifying specialists evaluation
 
 ---
 
 ## Success Metrics
 
-**Primary Goal:** Score 85+ points capitalizing on Sprint weekend scoring sessions while building team value through price gains on Bearman, Hulkenberg, and Haas.
+**Primary Goal:** Score 110+ points while maintaining team value growth trajectory through the Sprint weekend multiplier effect.
 
 **Secondary Goals:**
-- Log 2026 energy management patterns for future race strategy
-- Confirm Ferrari PU competitiveness in wet/changeable conditions  
-- Validate current value picks' ability to capitalize on chaos conditions
-- Bank transfers for Monaco Limitless deployment window
+- Validate 2026 overtake assumptions at first medium-high overtake circuit with active aero
+- Establish Mercedes vs. Ferrari hierarchy for Phase 1 premium anchor decisions
+- Test weather chaos scoring ceiling with current value pick structure
+- Build transfer flexibility for Monaco Limitless deployment
 
-**Avoid:** DNF disaster from weather chaos wiping out Sprint weekend upside. Current No Negative consideration protects against this scenario.
+**Avoid:** Any -10 transfer penalty hits when Monaco Limitless chip deployment is imminent — preserve maximum budget flexibility for the season's most predictable chip target.
 
 ---
 
-*Next Brief: Round 6 Monaco GP (No Sprint) — Limitless deployment weekend where qualifying determines 90% of race result*
-
-Looking at the Tuesday brief for Canadian GP (Race 5) and checking for any changes since then...
-
-After reviewing current information sources and comparing against the existing Tuesday brief content, I find:
-
-NO_CHANGES
+*Next Brief: Round 6 Monaco GP (No Sprint) — Limitless chip deployment weekend where qualifying accuracy matters more than race overtakes*
