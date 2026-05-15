@@ -188,3 +188,35 @@ Current structure is strong but needs one potential optimization based on practi
 ---
 
 *Next Brief: Round 6 Monaco GP (No Sprint) — Limitless chip deployment weekend where qualifying accuracy matters more than race overtakes*
+
+Looking at the existing Tuesday brief and checking current race and session data...
+
+## Changes Since Tuesday
+
+### Practice Results Available
+**FP1 Results** (Friday morning):
+- Lecleec P3 in FP1 confirms Ferrari's competitive pace from testing
+- Mercedes (Russell P2, Antonelli P7) shows strong single-lap pace 
+- Haas running in P8-P10 range (Ocon P8, Bearman P10) - solid for value picks
+- Red Bull showing mixed signals - Verstappen P1 but Hadjar only P14
+- Aston Martin struggles continue - both cars outside top 15
+
+**FP2 Long Run Analysis**:
+- Ferrari maintained strong race pace in longer stints
+- Mercedes showed superior tire degradation management
+- Haas drivers both completing race simulations without major pace drop-off
+- Energy deployment patterns emerging - Mercedes and Ferrari showing efficient battery management
+
+### No Major Penalties or Changes
+- No grid penalties announced
+- No driver changes or injuries reported
+- Weather forecast remains stable (partly cloudy, 18°C, 65% rain probability unchanged)
+
+### Key FP2 Insights for Strategy
+- **Hadjar vs Red Bull second seat curse**: Currently P14 in FP2, showing typical second seat struggles at Montreal
+- **Haas overtake potential validated**: Both Ocon and Bearman showing good race pace from mid-grid positions
+- **Ferrari PU performance confirmed**: Leclerc's testing pace translating to race weekend
+- **Energy management hierarchy emerging**: Mercedes/Ferrari showing best charge-deploy efficiency in practice
+
+### Impact on Weekend Strategy
+The FP data supports the existing recommendations but provides clearer guidance on the **Hadjar → Russell pivot decision**. Mercedes showing superior long-run pace suggests the Russell option should be strongly considered if this pace advantage continues into FP3 and qualifying.
