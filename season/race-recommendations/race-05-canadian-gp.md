@@ -1,86 +1,86 @@
-# Brief — Race 5: Canadian GP
+# Brief — Race 1: Australian GP
 
-**Circuit Gilles Villeneuve, Montreal | May 22-24, 2026 | Sprint: Yes**
+**Albert Park, Melbourne | March 6-8, 2026 | Sprint: No**
 
 ---
 
 ## Executive Summary
 
-**Circuit Profile:** Semi-permanent, medium-high overtakes, Sprint weekend, high weather variance with significant rain probability
+**Circuit Profile:** Semi-permanent street circuit, Medium overtakes, season opener, active aero impact uncertain
 
-**Weather:** Current forecast shows 65% rain probability for race day with temperatures around 18°C. Montreal historically delivers wet races in June.
+**Weather:** Mild autumn conditions (18-24°C), 30% rain probability Sunday afternoon. Low weather risk.
 
-**Strategic Focus:** Sprint weekend with weather chaos potential creates maximum scoring variance. Value picks with overtake ability could massively outperform their price points.
+**Strategic Focus:** Season opener with zero 2026 race data — prioritize information gathering over aggressive moves. Lock in value structure and begin regulation recalibration.
 
 ---
 
 ## Circuit Analysis
 
 ### Track Characteristics
-- **Length:** 4.361km, 70 laps
-- **Overtake Zones:** Long back straight plus Turn 1 braking zone, hairpin at Turn 10
-- **Key Features:** Wall-lined semi-permanent circuit, high safety car frequency, elevation changes
-- **Historical Avg:** 40-50 overtakes per race
+- **Length:** 5.3km, 58 laps
+- **Overtake Zones:** Turn 1 heavy braking, Turn 3 long straight (DRS historically), Turn 9-10 chicane
+- **Key Features:** Semi-permanent barriers, elevation changes, multiple passing opportunities
+- **Historical Avg:** 40-45 overtakes per race
 
 ### 2026 Regulation Impact
-- Active aero on the back straight should increase overtaking beyond historical averages
-- Energy management critical on a circuit with heavy braking zones and long acceleration phases
-- 50m no-MGU-K rule at race starts could create more first-lap chaos at the hairpin
-- Wall proximity means any energy deployment mistakes are severely punished with potential DNFs
+- **Active aero replaces DRS:** X-Mode available to all drivers on every straight regardless of gap — may increase overtaking beyond historical baselines
+- **Energy management unknown:** 50/50 hybrid split means battery strategy is now critical — watch for teams that fade in final stint vs. those that maintain pace
+- **Race starts more volatile:** No MGU-K for first 50m creates pure ICE launches — expect more wheelspin, position changes, and potential first-lap chaos
+- **Reduced downforce:** 15-30% less downforce than 2025 means higher speeds through corners but potentially easier following
 
 ### Weather Forecast
-**Current:** Partly cloudy, 18°C. **Rain probability: 65%.** High confidence in precipitation during the race weekend based on Montreal's June weather patterns and current atmospheric conditions.
+**Current:** Partly cloudy, 22°C. **Rain probability: 30%.** Forecast stable through Friday practice but afternoon storms possible Sunday. Monitor Saturday evening updates.
 
 ---
 
 ## Power Unit Supplier Analysis
 
 ### Strongest Performers
-1. **Mercedes** (Mercedes, McLaren, Williams, Alpine) — FP2 showed sector-by-sector dominance, compression ratio advantage evident in power delivery
-2. **Ferrari** (Ferrari, Haas, Cadillac) — Leclerc fastest in testing translating to race weekends, strong through Montreal's technical sections
-3. **Red Bull/Ford** (Red Bull, Racing Bulls) — Verstappen's pace masks PU questions, but energy deployment looked solid in practice
+1. **Mercedes** (Mercedes, McLaren, Williams, Alpine) — FP1/FP2 dominant across all customer teams. Compression ratio loophole rumors appear validated by practice pace.
+2. **Ferrari** (Ferrari, Haas, Cadillac) — Leclerc fastest overall in testing, strong long-run pace in practice sessions. Reliable and competitive.
+3. **Red Bull/Ford** (Red Bull, Racing Bulls) — Solid practice times but unclear if they're sandbagging. First-year PU partnership adds uncertainty.
 
 ### Crisis Zone
-- **Honda** (Aston Martin) — Multiple failures continue. Alonso confirmed for early retirement planning. **AVOID ALL ASTON MARTIN ASSETS.**
+- **Honda** (Aston Martin) — Multiple engine failures in testing, planning early retirements at Australia. **AVOID ALL ASTON MARTIN ASSETS.**
 
 ### Unknown
-- **Audi** (Audi) — First race data insufficient to judge Montreal-specific performance, but Hulkenberg's consistency helps mask PU unknowns
+- **Audi** (Audi) — Limited practice data, brand new manufacturer. Hulkenberg feedback suggests the PU is functional but performance ceiling unclear.
 
 ---
 
 ## Key Storylines
 
-### 1. Sprint Weekend + Rain = Maximum Chaos
-Three scoring sessions combined with 65% rain probability creates the highest variance weekend of the season so far. Safety cars, red flags, and grid penalties from qualifying crashes could shuffle the order dramatically. Value picks starting mid-grid in wet conditions historically gain 8-12 positions.
+### 1. The 2026 Regulation Reset
+Every historical assumption about car performance is provisional until validated by actual race data. Teams that dominated 2025 may struggle with active aero and energy management, while historically weak teams could surprise. Track which PU suppliers show superior energy deployment and which teams fade in the final stint.
 
-### 2. Hadjar vs. Red Bull Second Seat Curse
-Isack Hadjar faces his biggest test at a circuit where the Red Bull second seat has historically struggled. Perez, Gasly, and Albon all underperformed at Montreal relative to Verstappen. If Hadjar breaks the pattern, his $15.1M price becomes justified. If he follows precedent, he's a transfer candidate.
+### 2. Leclerc's Testing Form vs. Race Reality
+Leclerc topped pre-season testing and looked strong in FP1/FP2. If Ferrari has genuinely found something with the 2026 regulations, he could deliver massive points at 32% ownership. Melbourne has been kind to Ferrari historically (2022 win, 2023 podium). The 2X Boost placement rides on whether testing pace translates to race performance.
 
-### 3. Haas Overtake Machine vs. Qualifying Weakness
-Haas led the grid in total overtakes in 2025, making them perfectly suited for Montreal's overtaking zones. However, both Ocon and Bearman have qualifying weaknesses that put them mid-grid. In wet conditions, this transforms from liability to asset — starting P12-P14 with overtake pace in the rain is a fantasy goldmine.
+### 3. Value Picks Under the Microscope
+Bearman (56% ownership) and Hadjar (32% ownership) are consensus picks that need to prove themselves at race distance. Both scored well in 2025 but face new teammates (Ocon, Verstappen as references) and new regulations. If either disappoints, their high ownership creates ranking opportunity for contrarian picks.
 
-### 4. Russell vs. Antonelli Wet Weather Split
-Mercedes has two completely different wet weather profiles. Russell is arguably the best wet weather driver on the grid (Brazil 2022, Spa 2021). Antonelli is talented but unproven in F1 wet conditions. If rain hits, Russell could massively outscore his teammate, making him a premium pivot target.
+### 4. The Aston Martin Disaster
+Honda's reliability crisis puts Alonso ($10.0M, 12% ownership) and Stroll ($8.0M, 3% ownership) in a potential DNF zone. With planned early retirements and multiple testing failures, owning any Aston asset is a -20 point landmine. Their struggles also elevate other mid-tier teams by default.
 
-### 5. Energy Management Separates Contenders
-Montreal's long straights and heavy braking zones make battery deployment crucial. Teams that master the charge-deploy cycle will have a significant race pace advantage. Watch FP2 long runs for energy management efficiency — drivers losing pace in the final stint likely have deployment issues.
+### 5. Energy Management Detective Work
+Watch the final 15 laps closely. Teams with superior battery management will maintain pace while others fade. This is the new performance differentiator under 2026 regs and will predict which teams gain value over the opening stint of races.
 
 ---
 
 ## Current Team Analysis
 
 ### Strengths
-- Ferrari PU exposure (4 assets) aligns with confirmed competitive power unit performance
-- Bearman/Haas combination maximizes overtake potential at the perfect circuit for their skill set
-- Leclerc 2X boost at a circuit where Ferrari has historically been competitive
+- **Ferrari PU exposure (4 assets)** captures the strongest-looking power unit across multiple price tiers
+- **Value structure** with 3 Tier B drivers positioned for +$0.6M gains if they score above 3.0 PPM thresholds
+- **2X Boost on Leclerc** aligns with testing form and historical Melbourne performance
 
 ### Risks
-- No Mercedes PU exposure despite their apparent dominance (Russell/Antonelli missing)
-- Hadjar faces the Red Bull second seat curse at Montreal specifically
-- Weather chaos could expose lack of wet-weather specialists in the lineup
+- **Hadjar dependency** on Red Bull's unproven Ford partnership — if the PU has reliability issues, he's exposed
+- **Audi PU unknown** with Hulkenberg — could be last on pace or surprise competitive
+- **High-ownership picks** (Bearman 56%, Hadjar 32%) limit differential upside if they perform to expectations
 
 ### 2X Boost Placement
-**Charles Leclerc** — Ferrari showed strong pace in testing, Leclerc has 2 wins and 4 podiums at Montreal historically, and Sprint format multiplies scoring across three sessions.
+**Charles Leclerc** — Fastest in testing, strong Melbourne history, Ferrari PU looks competitive. Keep boost here unless FP2 shows a dramatic shift in pace hierarchy.
 
 ---
 
@@ -89,46 +89,50 @@ Montreal's long straights and heavy braking zones make battery deployment crucia
 ### Pre-Race Scouting (FP1/FP2)
 **Priority intel to gather:**
 
-1. **Long-run pace in wet/damp conditions** — which drivers maintain energy efficiently when managing battery in slippery conditions
-2. **Qualifying pace differential Mercedes vs. Ferrari** — determines if Russell pivot becomes necessary
-3. **Haas/Ocon/Bearman overtaking ability** — confirm value picks can execute passes in practice traffic
-4. **Red Bull energy management** — does Hadjar show the same deployment efficiency as Verstappen
-5. **Weather timing intel** — when during the weekend is rain most likely (qualifying vs. race strategy implications)
+1. **Energy deployment patterns** — which teams maintain pace in final practice runs vs. those that fade
+2. **Overtake frequency** — does active aero increase passing beyond the historical 40-45 baseline?
+3. **PU reliability signals** — any Honda failures, Audi pace relative to expectations
+4. **Long-run vs. qualifying pace gaps** — 2026 cars may have different qualifying/race balance than 2025
+5. **Weather evolution** — if rain probability increases above 50%, consider weekend strategy shift
 
 ### Transfer Strategy
-**Recommendation: USE 1 OF 2 FREE TRANSFERS**
+**Recommendation: BANK BOTH FREE TRANSFERS**
 
-Target the Hadjar → Russell pivot if Mercedes shows clear superiority in wet weather pace during practice sessions.
+Season opener requires data collection, not reactionary moves. The current lineup captures multiple PU families and price tiers for learning. Only use transfers if practice reveals a fundamental team error.
 
 **Only transfer if:**
-- Russell shows 3+ tenths pace advantage in wet running during FP2
-- Mercedes demonstrates superior energy management in race simulations
-- Hadjar shows pace deficit to Verstappen beyond normal second seat gap
+- Aston Martin shows surprise pace reliability (extremely unlikely)
+- A Tier B driver has confirmed grid penalty or injury
+- FP2 reveals a completely different pace order than testing suggested
 
 ### Chip Strategy
-**No Negative** — Strong consideration given 65% rain probability and historical Montreal crash rate. Sprint weekend multiplies the downside protection across three sessions.
+**No chips recommended** — Early season data-gathering mode. Post-Race 1 chips (3X Boost, Limitless, Final Fix) unlock after completion.
 
-Alternative: Save for later Sprint weekends (Netherlands R12 has clearer weather and better 3X Boost profile)
+**Forward chip calendar:**
+- **Wildcard:** Races 4-8 window for major team restructure
+- **Limitless:** Monaco R6 (48.6% of Top 500 used here in 2025)
+- **3X Boost:** Netherlands R12 Sprint (high overtakes + Phase 2 budget)
+- **Final Fix:** Azerbaijan R15 (street circuit crash protection)
 
 ---
 
 ## Lineup Recommendations
 
-### Hadjar Evaluation Required
+### Keep Current Structure
 
-Current structure is strong but needs one potential optimization based on practice data.
+Lock in the value-building framework and gather 2026 regulation data.
 
 | Slot | Current | Alternative | Recommendation |
 |------|---------|-------------|----------------|
-| Driver 1 (2X) | **Leclerc** | — | **KEEP** — Ferrari pace confirmed, Sprint multiplier |
-| Driver 2 | **Hadjar** | Russell | **EVALUATE** — pivot if Russell dominates wet FP2 |
-| Driver 3 | **Sainz** | — | **KEEP** — Williams-Mercedes PU strong |
-| Driver 4 | **Bearman** | — | **KEEP** — perfect circuit for overtakes |
-| Driver 5 | **Hulkenberg** | — | **KEEP** — consistency anchor |
-| Constructor 1 | **Ferrari** | — | **KEEP** — confirmed competitive |
-| Constructor 2 | **Haas** | — | **KEEP** — overtake specialists at ideal circuit |
+| Driver 1 (2X) | **Leclerc** | Russell, Piastri | **KEEP** — Testing form + Melbourne history |
+| Driver 2 | **Hadjar** | Antonelli, Gasly | **KEEP** — Value tier, 32% consensus |
+| Driver 3 | **Sainz** | Albon, Ocon | **KEEP** — Williams Mercedes PU upside |
+| Driver 4 | **Bearman** | Ocon, Lawson | **KEEP** — Phase 1 value target |
+| Driver 5 | **Hulkenberg** | Bottas, Colapinto | **KEEP** — Audi pace unknown, gather data |
+| Constructor 1 | **Ferrari** | McLaren, Mercedes | **KEEP** — Testing leaders + reasonable price |
+| Constructor 2 | **Haas** | Racing Bulls, Audi | **KEEP** — Ferrari PU at budget price |
 
-**Conditional transfer: Hadjar → Russell based on FP2 wet weather data.**
+**No changes recommended.** Bank transfers for post-race decisions based on actual 2026 data.
 
 ---
 
@@ -136,87 +140,55 @@ Current structure is strong but needs one potential optimization based on practi
 
 ### Likely Scoring Scenarios
 
-**Conservative (85-110 pts):** Dry race, current lineup performs to baseline expectations, limited position changes.
+**Conservative (85-105 pts):** Value picks perform to Tier B thresholds, Ferrari maintains testing form, no major incidents. Leclerc 2X delivers 30-35 boosted points.
 
-**Target (110-140 pts):** Mixed conditions with 1-2 safety cars, Bearman/Ocon gain 5-8 positions each, Ferrari maintains front-running pace.
+**Target (105-130 pts):** Active aero increases overtaking beyond historical baseline, benefiting all drivers. Energy management gives Ferrari PU an edge in final stint. Bearman/Hadjar exceed consensus expectations.
 
-**Optimistic (140+ pts):** Full wet race with multiple red flags, Haas drivers gain 10+ positions from mid-grid, Leclerc podium with 2X boost active across all three sessions.
+**Optimistic (130+ pts):** Leclerc dominates from pole, first-lap chaos benefits overtake-capable value picks, Aston Martin DNFs elevate everyone by default. Haas constructor bonus from both-drivers-in-points.
 
 ### Key Variables
-- Rain timing affects which sessions see chaos vs. which stay processional
-- Safety car deployment multiplies position change opportunities
-- Energy management efficiency becomes race-deciding factor in extended stint running
-- First-lap incidents at Turn 1 hairpin (50m no-MGU-K rule increases start variance)
-- Sprint qualifying crashes could shuffle Sunday starting grid dramatically
+- **First-lap position changes** — 2026 start rules create more volatility
+- **Energy deployment effectiveness** — teams with better battery management pull away in final third
+- **Active aero overtake impact** — may see 50+ overtakes instead of historical 40-45
+- **Weather evolution** — 30% rain chance could create chaos benefiting aggressive picks
+- **Honda reliability** — Aston Martin failures would be a grid-wide positive for scoring
 
 ---
 
 ## Post-Race Action Items
 
 ### Immediate (Sunday Evening)
-1. Log actual overtake count vs. historical 40-50 average (2026 active aero validation)
-2. Record energy management winners/losers based on final stint pace
-3. Note which PU suppliers showed race distance reliability vs. failures
-4. Track weather impact on scoring vs. dry baseline projections
+1. **Record actual overtake count** vs. historical 40-45 baseline — active aero impact assessment
+2. **Log energy management patterns** — which teams maintained pace lap 40-58 vs. early stint
+3. **Note PU reliability** — any Honda failures, Red Bull/Ford debut performance
+4. **Screenshot price changes** for verification against Budget Builder predictions
 
 ### Monday Analysis
-1. Update Montreal overtake tier if active aero significantly changed passing frequency
-2. Assess Red Bull second seat curse continuation (Hadjar performance vs. Verstappen gap)
-3. Evaluate Mercedes wet weather advantage for future rain race strategy
-4. Review Sprint weekend scoring multiplier impact on chip deployment timing
+1. **Recalibration Protocol begins** — update circuit profile assumptions based on 2026 data
+2. **Value pick performance review** — did Bearman/Hadjar meet Tier B PPM thresholds?
+3. **PU supplier ranking** — establish early pecking order for transfer planning
+4. **Ownership impact assessment** — did high-ownership picks (Bearman 56%) meet/exceed expectations?
 
-### Transfer Window (Before R6 Monaco Lock)
-- Monitor Leclerc price change (likely gain if Ferrari delivered)
-- Assess Russell as Monaco Limitless candidate if Mercedes showed dominance
-- Check for any injury/penalty news affecting Monaco lineup decisions
-- Prepare Monaco-specific qualifying specialists evaluation
+### Transfer Window (Before R2 China Lock)
+- **Monitor value pick price changes** — protect those gaining +$0.6M
+- **Assess China Sprint preparation** — different circuit profile, different needs
+- **Check for reliability concerns** from Australia that affect R2 picks
+- **Unlock post-R1 chips** — 3X Boost, Limitless, Final Fix become available
 
 ---
 
 ## Success Metrics
 
-**Primary Goal:** Score 110+ points while maintaining team value growth trajectory through the Sprint weekend multiplier effect.
+**Primary Goal:** Complete the race with all assets scoring positive points and begin 2026 regulation understanding.
 
 **Secondary Goals:**
-- Validate 2026 overtake assumptions at first medium-high overtake circuit with active aero
-- Establish Mercedes vs. Ferrari hierarchy for Phase 1 premium anchor decisions
-- Test weather chaos scoring ceiling with current value pick structure
-- Build transfer flexibility for Monaco Limitless deployment
+- Leclerc 2X delivers 25+ boosted points
+- 3+ value picks score above PPM thresholds for price gain potential
+- Collect data on PU supplier hierarchy and energy management patterns
+- Bank both free transfers for informed R2 decisions
 
-**Avoid:** Any -10 transfer penalty hits when Monaco Limitless chip deployment is imminent — preserve maximum budget flexibility for the season's most predictable chip target.
+**Avoid:** Any transfer decisions based on one practice session. Season opener requires patience and data collection over reactive team changes.
 
 ---
 
-*Next Brief: Round 6 Monaco GP (No Sprint) — Limitless chip deployment weekend where qualifying accuracy matters more than race overtakes*
-
-Looking at the existing Tuesday brief and checking current race and session data...
-
-## Changes Since Tuesday
-
-### Practice Results Available
-**FP1 Results** (Friday morning):
-- Lecleec P3 in FP1 confirms Ferrari's competitive pace from testing
-- Mercedes (Russell P2, Antonelli P7) shows strong single-lap pace 
-- Haas running in P8-P10 range (Ocon P8, Bearman P10) - solid for value picks
-- Red Bull showing mixed signals - Verstappen P1 but Hadjar only P14
-- Aston Martin struggles continue - both cars outside top 15
-
-**FP2 Long Run Analysis**:
-- Ferrari maintained strong race pace in longer stints
-- Mercedes showed superior tire degradation management
-- Haas drivers both completing race simulations without major pace drop-off
-- Energy deployment patterns emerging - Mercedes and Ferrari showing efficient battery management
-
-### No Major Penalties or Changes
-- No grid penalties announced
-- No driver changes or injuries reported
-- Weather forecast remains stable (partly cloudy, 18°C, 65% rain probability unchanged)
-
-### Key FP2 Insights for Strategy
-- **Hadjar vs Red Bull second seat curse**: Currently P14 in FP2, showing typical second seat struggles at Montreal
-- **Haas overtake potential validated**: Both Ocon and Bearman showing good race pace from mid-grid positions
-- **Ferrari PU performance confirmed**: Leclerc's testing pace translating to race weekend
-- **Energy management hierarchy emerging**: Mercedes/Ferrari showing best charge-deploy efficiency in practice
-
-### Impact on Weekend Strategy
-The FP data supports the existing recommendations but provides clearer guidance on the **Hadjar → Russell pivot decision**. Mercedes showing superior long-run pace suggests the Russell option should be strongly considered if this pace advantage continues into FP3 and qualifying.
+*Next Brief: Round 2 Chinese GP (Sprint) — First Sprint weekend under new regulations with unknown energy management impact on Sprint + Race scoring.*
