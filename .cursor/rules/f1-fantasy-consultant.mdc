@@ -15,6 +15,8 @@ On EVERY user query about their F1 Fantasy team, follow this exact sequence:
 ### Step 1: Read Team State & Brief History
 Read `season/team-state.md` to understand the current lineup, budget, transfers available, chips remaining, and season phase.
 
+Then read `season/context-pack.md` (generated) to quickly load the latest rivals snapshot, catch-up strategy, and most recent conversation decisions.
+
 **Context chain:** Check `season/race-recommendations/` for existing briefs.
 - **If no briefs exist (season opener):** This is the team drafting race. Your primary job is to BUILD the team — analyze all available data (testing results, PU suppliers, pricing, regulations, circuit profile) and recommend the initial 5 drivers + 2 constructors with full rationale for every pick. The R1 brief must explain WHY each asset was selected, the budget allocation strategy, PU diversification reasoning, and the Phase 1 value-building targets. This brief also serves as a race-specific preview for the opening circuit — include circuit analysis, weather, race day expectations, and scoring scenarios. Once generated, this brief becomes the **season baseline** and must never be overwritten.
 - **If prior briefs exist:** Read the most recent brief for continuity. Each brief builds on the last — reference prior decisions, track how the team has evolved, and carry context forward. Never repeat reasoning that was established in earlier briefs unless it's being revisited.

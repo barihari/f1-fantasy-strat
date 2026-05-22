@@ -22,6 +22,9 @@ Update `season/team-state.md` with:
 3. Chips remaining
 4. Any notes
 
+Then regenerate the trimmed Cursor context pack:
+- `python3 scripts/build-context-pack.py` (writes `season/context-pack.md`)
+
 Then log the race in `season/race-log.md` for historical tracking.
 
 ## Project Structure

@@ -32,6 +32,30 @@ The 2026 regulations are the biggest rule overhaul since 2014. Every historical 
 ### Race Start Change
 - MGU-K cannot deploy for the first 50 metres off the line — pure ICE starts. This increases driver skill (and error) at the start, creating more position change opportunities in the opening lap.
 
+### Miami 2026 Refinements (Implemented From Miami)
+After the first three races, the FIA/F1 agreed immediate parameter refinements aimed at reducing excessive harvesting, improving “flat-out” driving, and addressing safety concerns. These were implemented from Miami (with start-specific changes tested in Miami and adopted after analysis).
+
+#### Qualifying — promoting performance
+- **Max permitted recharge reduced** — 8MJ → 7MJ, reducing harvesting and lift/coast burden
+- **Peak “superclip” power increased** — 250kW → 350kW, reducing time spent recharging and lowering driver workload
+- **More circuit-by-circuit flexibility** — events eligible for alternative lower energy limits increased from 8 → 12
+
+#### Race — improved safety and consistency of performance
+- **Boost capped in race** — max additional power via Boost capped at +150kW (or the car’s current power level at activation if higher)
+- **MGU-K limited outside key zones** — 350kW retained in key acceleration zones, limited to 250kW elsewhere
+- Intended effect: **reduce excessive closing speeds** while maintaining overtaking opportunity
+
+#### Race starts — enhanced safety mechanisms
+- **Low-power start detection** — identifies abnormally low acceleration shortly after clutch release
+- **Automatic MGU-K deployment (safety)** — triggered to ensure a minimum level of acceleration without sporting advantage
+- **Additional warning lights** — flashing rear and lateral lights for affected cars
+- **Energy counter reset** — reset at the start of the formation lap to correct a system inconsistency
+
+#### Wet / low-grip — safety and visibility
+- **Higher intermediate tyre blanket temperatures** to improve initial grip
+- **Reduced max ERS deployment** (less torque) to improve control in low-grip conditions
+- **Simplified rear light system** with clearer cues for visibility in spray
+
 ---
 
 ## Fantasy Impact: Why This Matters
@@ -134,9 +158,14 @@ Because 2026 is a regulation reset, the consultant must aggressively update assu
 - The competitive order is now reasonably established
 - Energy management rankings are clear
 - Transfer strategy should shift from "pre-season assumptions" to "2026 race data"
+- **Regulation reality check:** Miami introduced mid-season **energy management + deployment parameter refinements** (qualifying recharge limit reduction, superclip power increase, race Boost cap, MGU-K zone limits) plus wet/start safety adjustments. Treat post-Miami data as the new baseline for “how 2026 actually works.”
 
 ### Ongoing
 - Every 3 races, compare actual overtake data against circuit profile predictions
 - Track which PU suppliers are gaining/losing performance
 - Monitor for mid-season regulation clarifications (active aero adjustments, energy deployment rule tweaks)
 - Weight 2026 race data increasingly over 2025 baselines as the season progresses
+
+### Forward-Looking Note (May 8, 2026)
+- The FIA reported **no material issues/safety concerns** with the Miami refinements and indicated further 2026 adjustments may follow (notably starts and wet-condition measures).
+- Longer-term, an **in-principle 2027 direction** was communicated: ~+50kW ICE (via fuel-flow increase) alongside ~-50kW ERS deployment power, pending technical group work and formal approval.

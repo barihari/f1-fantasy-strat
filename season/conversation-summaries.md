@@ -42,3 +42,58 @@ Session-by-session summaries of chatbot discussions. Tracks your preferences, re
 - End of Miami: confirm Lawson value trend and gap movement
 - End of Canada: decide offensive (Antonelli) vs defensive (Russell) route
 - End of Monaco: if gap does not shrink, switch from quiet-sneak to direct neutralization mode
+
+---
+
+## Race 5 Canada — League Context & Transfer Plan (updated 2026-05-22)
+
+### League Standings (after R4 Miami)
+| Pos | Team | Pts |
+|-----|------|-----|
+| 1 | Limited Battery (Ziad Bayoumy) | 1015 |
+| 2 | CharlesLeWin16 (Ezra Richard) | 992 |
+| 3 | Lando Tears Racing (Delaney Bender) | 844 |
+| 4 | **Isack's Abs (Saleena Beharry)** | **788** |
+| 5 | Finnietotter Racing (Prashi Singh) | 647 |
+
+**Gap to leader: 227 pts**
+
+### Limited Battery Structure (team to beat)
+- Drivers: Leclerc (2X), Bearman, Bortoleto, Ocon, Hulkenberg
+- Constructors: Ferrari + Mercedes
+- Key weapon: Mercedes constructor (~104 pts in Miami alone)
+- Weakness: Hulkenberg (-29 pts Miami), took -10 transfer penalty
+- Cost cap: $1.5M remaining
+
+### Canada Transfer Plan (3 free transfers)
+1. Hadjar → Albon (avoid -$0.6M drop; Mercedes PU; 9 overtakes Miami)
+2. Hulkenberg → Gasly (avoid -$0.6M drop; Mercedes PU; Montreal history)
+3. Leclerc → Antonelli ($24.4M; move 2X here; Ferrari historically weak at Canada cool temps)
+
+Post-transfer bank: ~$0.5M — tight, verify in-game before confirming.
+
+### Strategic Pivot
+- Hadjar was NOT traded before Miami as originally planned (he DNF'd at Miami)
+- Plan shifts to Antonelli route (offensive upside over Russell neutralization)
+- Mercedes constructor upgrade is the mid-season structural target — requires Wildcard or budget accumulation
+- Chip plan: Limitless at Monaco (R6), 3X Boost at Netherlands (R12)
+
+---
+
+## Race 5 Canada — Transfers Confirmed + Strategy Pivot (updated 2026-05-22)
+
+### What was confirmed in-game (Canada lock)
+- **Transfers used:** 3 (no penalties)
+- **2X Boost:** Leclerc
+- **Chip:** none
+- **Bank remaining:** **$1.7M**
+
+### Confirmed Canada transfers
+1. **Hadjar → Albon**
+2. **Hulkenberg → Bortoleto**
+3. **Ferrari constructor → Mercedes constructor**
+
+### Dated Strategy Shift (2026-05-22)
+- Shift from “Antonelli-first then Mercedes later” to **neutralize Limited Battery immediately** by acquiring **Mercedes constructor now**.
+- Maintain chip plan: **Limitless Monaco (R6)**.
+- **Barcelona (R7) Wildcard objective:** bring in **Kimi Antonelli** as the premium ceiling anchor while keeping the new constructor baseline (Mercedes + Haas) unless pricing makes a clean mirror upgrade possible.
