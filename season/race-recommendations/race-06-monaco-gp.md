@@ -6,11 +6,11 @@
 
 ## Executive Summary
 
-**Circuit Profile:** Street circuit, Very Low overtake tier, no sprint, qualifying-dependent scoring with exclusive premium advantage.
+**Circuit Profile:** Street circuit, Very Low overtake tier, no Sprint, legendary qualifying-is-the-race weekend where track position determines 90% of the final result.
 
-**Weather:** Dry and mild (19°C). **Rain probability: 15%.** Stable conditions favor qualifying specialists and strategic precision.
+**Weather:** Dry and warm (22°C), 15% rain probability. Minimal weather variance expected.
 
-**Strategic Focus:** Deploy **Limitless chip** to maximize premium driver advantage at the ultimate low-overtake circuit. This is a defensive weekend to prevent gap expansion before the Barcelona Wildcard offensive.
+**Strategic Focus:** Deploy **Limitless chip** to neutralize budget constraints and field the strongest possible qualifying lineup. This is the season's best defensive chip deployment opportunity—prevent gap growth at a circuit where value picks score nothing.
 
 ---
 
@@ -18,69 +18,69 @@
 
 ### Track Characteristics
 - **Length:** 3.337km, 78 laps
-- **Overtake Zones:** Minimal — main straight into Turn 1, occasional moves at Nouvelle Chicane. Active aero may add 2-3 additional passes but fundamentally remains a qualifying circuit.
-- **Key Features:** Narrow streets, armco barriers, no run-off areas, requires absolute precision
+- **Overtake Zones:** Essentially none. Harbor chicane and Nouvelle chicane are the only realistic passing zones
+- **Key Features:** Narrowest circuit on calendar, 100% precision required, barriers everywhere
 - **Historical Avg:** <15 overtakes per race (lowest on calendar)
 
 ### 2026 Regulation Impact
-- X-Mode active aero on main straight may create 1-2 additional overtaking opportunities per race
-- Energy management less critical at Monaco due to frequent acceleration zones and limited straight-line deployment
-- Race starts still volatile (no MGU-K first 50m) but grid position recovery nearly impossible once settled
-- Boost Mode effectiveness limited by track layout — few strategic deployment zones
+- Active aero X-Mode provides minimal benefit (no meaningful straights for deployment)
+- Boost Mode deployment limited by track layout—nowhere to use extra power effectively
+- Energy management less critical than pure qualifying pace and tire management
+- Race starts remain crucial (only realistic overtaking window), but MGU-K limitation makes errors more costly
 
 ### Weather Forecast
-**Current:** Sunny, 19°C, light winds. **Rain probability: 15%.** Forecast stable through weekend with no major disturbances expected from the Mediterranean.
+**Current:** Sunny, 22°C, light winds. **Rain probability: 15%.** Forecast stable through weekend with no significant weather disruption expected.
 
 ---
 
 ## Power Unit Supplier Analysis
 
 ### Strongest Performers
-1. **Mercedes** (Mercedes, McLaren, Williams, Alpine) — Dominant through R4, compression ratio advantage confirmed, both your constructors benefit from Mercedes reliability
-2. **Ferrari** (Ferrari, Haas, Cadillac) — Strong qualifying pace, Leclerc pole specialist at Monaco, your driver anchor benefits
-3. **Red Bull/Ford** (Red Bull, Racing Bulls) — Verstappen historically dominant at Monaco regardless of PU, but Hadjar weakness continues
+1. **Mercedes** (Mercedes, Williams, Alpine, McLaren) — dominant through R1-R5 with superior overall performance
+2. **Ferrari** (Ferrari, Haas, Cadillac) — solid qualifying pace, particularly strong at Monaco historically
+3. **Red Bull/Ford** (Red Bull, Racing Bulls) — Verstappen transcends PU limitations, but second car struggles
 
 ### Crisis Zone
-- **Honda** (Aston Martin) — Multiple reliability failures continue. **AVOID ALL ASTON MARTIN ASSETS.** Alonso/Stroll completely unviable this weekend.
+- **Honda** (Aston Martin) — multiple engine failures continue. **AVOID ALL ASTON MARTIN ASSETS.** Alonso/Stroll have retirement risk.
 
 ### Unknown
-- **Audi** (Audi) — Bortoleto showed decent pace in practice sessions but limited Monaco-specific data. Your slot 5 asset remains a budget placeholder.
+- **Audi** (Audi) — limited pace data. Hulkenberg consistent but ceiling unclear.
 
 ---
 
 ## Key Storylines
 
-### 1. Limitless Chip Deployment Weekend
-Monaco is the consensus #1 Limitless target (48.6% of Top 500 used it here in 2025). With budget cap removed, you can select the 5 strongest qualifiers + 2 best constructors regardless of price. This prevents losing ground to Limited Battery on a circuit where your budget picks would score near zero.
+### 1. Limitless Chip Weekend Creates Level Playing Field
+Monaco is the consensus Limitless deployment target (48.6% of Top 500 used it here in 2025). If Limited Battery also deploys Limitless, the race becomes a tactical wash where both teams score 260-280 points. This is acceptable—preventing gap growth is the primary defensive objective.
 
-### 2. Leclerc 2X Boost at Home Circuit
-Leclerc is a Monaco pole position specialist with 3 poles in 4 attempts since 2021. Your 2X boost placement on him maximizes qualifying points (up to 20 boosted) and capitalizes on Ferrari's street circuit setup philosophy. This is the ideal Leclerc weekend.
+### 2. Leclerc's Monaco Mastery vs. Mercedes Form
+Leclerc has dominated Monaco qualifying historically but Ferrari's recent form trails Mercedes. Your 2X boost decision between Leclerc (circuit specialist) vs. acquiring Antonelli/Russell (form leaders) defines the weekend ceiling.
 
-### 3. Constructor Stability After Canada Transfers
-Your Mercedes + Haas constructor pairing now mirrors Limited Battery's structure partially. Mercedes provides the premium floor (~100 pts/weekend), while Haas offers budget efficiency. Both constructors benefit from low DNF risk at Monaco due to conservative racing.
+### 3. Constructor Pitstop Bonuses Amplified
+With minimal on-track overtaking, constructor scoring relies heavily on pitstop execution and both-drivers-in-Q3 bonuses. Your Mercedes + Haas pairing captures the dominant constructor plus a budget option that could surprise.
 
-### 4. Active Aero Adjustment Period
-Monaco is the first race since the Miami regulation refinements. Reduced MGU-K deployment outside key zones and qualifying recharge limits should have minimal impact at a low-speed circuit, but monitor practice for any unexpected handling changes affecting your Ferrari PU drivers.
+### 4. Value Picks Face Scoring Desert
+Drivers starting P11+ score essentially zero points at Monaco. Bortoleto and other budget assets become dead weight. Limitless eliminates this constraint by removing the budget cap entirely.
 
-### 5. Gap Management Before Barcelona Wildcard
-Currently 227 points behind Limited Battery. Monaco Limitless is defensive — preventing the gap from expanding to 280+ on a circuit where premium drivers score 40-60 points while budget picks score 5-15. Barcelona Wildcard (R7) remains the offensive weapon.
+### 5. Final Pre-Barcelona Data Gathering
+FP1/FP2 provide crucial intelligence for next week's Wildcard deployment. Watch for: Antonelli vs. Russell pace comparison, Ferrari vs. Mercedes qualifying trim performance, and any surprise pace from mid-tier teams.
 
 ---
 
 ## Current Team Analysis
 
 ### Strengths
-- Mercedes constructor provides elite pitstop speed and reliability floor perfect for Monaco's precision demands
-- Leclerc 2X boost maximizes the highest-ceiling qualifying asset on the grid at his strongest circuit
-- Post-Canada transfers eliminated negative-scoring assets (Hadjar, Hulkenberg) that would be particularly damaging in a low-scoring environment
+- Mercedes constructor provides the dominant scoring platform and optimal pitstop bonus potential
+- Leclerc offers proven Monaco qualifying excellence (2X boost candidate)
+- Sainz gives Williams/Mercedes PU exposure at a value-tier price point
 
 ### Risks
-- Bortoleto and potentially Albon may score minimal points at a low-overtake circuit, creating dead weight in the lineup
-- Haas constructor remains the structural weakness vs Limited Battery's Ferrari constructor
-- $1.7M budget provides limited flexibility for emergency swaps if practice reveals unexpected issues
+- Haas constructor faces predicted -$0.6M price drop and may underperform at a low-overtake circuit
+- Budget-constrained driver selection limits ceiling without chip deployment
+- Over-reliance on Ferrari assets (Leclerc, Bearman, Haas) if Ferrari pace disappoints
 
 ### 2X Boost Placement
-**Charles Leclerc** — Monaco pole specialist with proven street circuit pace, Ferrari setup advantage, and maximum qualifying ceiling. The boosted 20 points for pole position alone justify this placement.
+**Charles Leclerc** — Monaco pole specialist with 3 poles in last 4 visits. Historical edge at this circuit outweighs Mercedes' recent form advantage for one weekend.
 
 ---
 
@@ -89,49 +89,50 @@ Currently 227 points behind Limited Battery. Monaco Limitless is defensive — p
 ### Pre-Race Scouting (FP1/FP2)
 **Priority intel to gather:**
 
-1. **Leclerc qualifying pace vs field** — confirm 2X boost placement is optimal or consider emergency pivot to Russell/Antonelli
-2. **Mercedes constructor pitstop rehearsals** — verify sub-2.0s capability in Monaco's tight pit lane conditions  
-3. **Haas car balance** — Bearman's adaptation to Monaco walls, any handling issues that could trigger DNF risk
-4. **Weather stability** — any late-developing rain systems that could change strategy from qualifying-focused to chaos management
-5. **Active aero effectiveness** — whether X-Mode provides any meaningful overtaking advantage or remains cosmetic at Monaco
+1. **Leclerc vs. Antonelli/Russell qualifying pace comparison** — decisive for Barcelona Wildcard driver selection
+2. **Mercedes vs. Ferrari constructor both-in-Q3 probability** — impacts Limitless lineup optimization
+3. **Haas pace evaluation** — if significantly off the pace, factor into post-Monaco transfer planning
+4. **Williams (Sainz/Albon) performance** — validates Mercedes PU advantage at your price points
+5. **Grid penalty announcements** — street circuits punish grid drops severely
 
 ### Transfer Strategy
 **Recommendation: BANK BOTH FREE TRANSFERS**
 
-Monaco with Limitless removes budget constraints entirely. Banking transfers preserves flexibility for the Barcelona Wildcard restructure while avoiding unnecessary churn in a weekend where practice pace is less predictive than historical Monaco form.
+Monaco is a one-off circuit where Limitless deployment eliminates budget constraints. Save transfers for Barcelona Wildcard week when structural changes matter long-term.
 
 **Only transfer if:**
-- Leclerc suffers mechanical failure in practice (then move 2X boost and consider replacing)
-- Bortoleto shows complete lack of pace and Cadillac/Racing Bulls alternatives are clearly superior  
-- Late rain forecast materializes requiring wet-weather specialists
+- Major grid penalty hits a key driver (25+ position drop)
+- Confirmed mechanical issue threatens weekend participation
+- Practice data shows catastrophic pace loss from a core asset
 
 ### Chip Strategy
-**Limitless** — Primary deployment target. Remove the $100M budget cap and select optimal 5 drivers + 2 constructors for maximum Monaco scoring regardless of price.
+**Limitless** — Deploy this weekend for maximum defensive value.
 
-Forward chip calendar after Limitless deployment:
-- **Wildcard:** Barcelona (R7) — offensive restructure for premium ceiling acquisition
-- **3X Boost:** Netherlands (R12, Sprint) — triple points multiplication target  
-- **Final Fix:** Azerbaijan (R15) — street circuit safety net
+Monaco provides the best risk/reward ratio for Limitless because:
+- Lowest overtake count = value picks score nothing anyway
+- Qualifying determines race result = premium drivers provide maximum edge
+- Defensive chip usage prevents gap growth vs. Limited Battery
+- Creates budget freedom to field optimal lineup regardless of constraints
 
 ---
 
 ## Lineup Recommendations
 
-### Limitless Chip Deployment Structure
+### Deploy Limitless — Optimal Monaco Selection
 
-With budget cap removed, construct the strongest possible Monaco team regardless of normal price constraints.
+With Limitless removing the $100M budget cap, field the strongest possible lineup for a qualifying-dependent weekend.
 
 | Slot | Current | Limitless Alternative | Recommendation |
 |------|---------|---------------------|----------------|
-| Driver 1 (2X) | **Charles Leclerc** | Charles Leclerc | **KEEP** — Optimal Monaco specialist with 2X multiplication |
-| Driver 2 | **Alexander Albon** | Max Verstappen | **UPGRADE** — Monaco's most dominant driver (3 wins since 2021) |
-| Driver 3 | **Carlos Sainz** | Lando Norris | **UPGRADE** — McLaren's qualifying strength, consistent Monaco performer |
-| Driver 4 | **Oliver Bearman** | Oscar Piastri | **UPGRADE** — McLaren premium, strong street circuit record |
-| Driver 5 | **Gabriel Bortoleto** | George Russell | **UPGRADE** — Mercedes pole threat, championship form leader |
-| Constructor 1 | **Mercedes** | McLaren | **UPGRADE** — Fastest pitstops + both drivers likely Q3 |
-| Constructor 2 | **Haas** | Mercedes | **UPGRADE** — Russell + premium second driver maximizes constructor ceiling |
+| Driver 1 (2X) | **Charles Leclerc** | Charles Leclerc | **KEEP** — Monaco specialist, proven qualifier |
+| Driver 2 | **Alex Albon** | Max Verstappen | **UPGRADE** — best driver on grid regardless of price |
+| Driver 3 | **Carlos Sainz** | Kimi Antonelli | **UPGRADE** — Mercedes form leader, qualifying ace |
+| Driver 4 | **Oliver Bearman** | Lando Norris | **UPGRADE** — elite qualifier, McLaren consistency |
+| Driver 5 | **Gabriel Bortoleto** | George Russell | **UPGRADE** — Mercedes 1-2 punch with Antonelli |
+| Constructor 1 | **Mercedes** | Mercedes | **KEEP** — dominant constructor, optimal pitstops |
+| Constructor 2 | **Haas** | McLaren | **UPGRADE** — both drivers consistently in Q3 |
 
-**Limitless weekend structure eliminates all budget constraints.**
+**Target Limitless Lineup: Leclerc (2X), Verstappen, Antonelli, Norris, Russell | Mercedes, McLaren**
 
 ---
 
@@ -139,63 +140,55 @@ With budget cap removed, construct the strongest possible Monaco team regardless
 
 ### Likely Scoring Scenarios
 
-**Conservative (240-260 pts):** Leclerc qualifies P3-P5, collects solid points. Premium upgrades via Limitless prevent major ground loss. Constructors perform to baseline expectations with clean pitstops.
+**Conservative (240-260 pts):** Limitless lineup qualifies well but lacks race-day overtaking opportunities. Steady finishing positions based on grid slots.
 
-**Target (280-320 pts):** Leclerc pole position (20 boosted points), Verstappen/Russell podium contributions, McLaren constructor both-in-Q3 bonus, sub-2.0s pitstops. Limitless maximizes scoring ceiling.
+**Target (270-290 pts):** Optimal qualifying performance from Limitless selections. Leclerc contends for pole, Mercedes drivers lock out front rows, constructors deliver pitstop bonuses.
 
-**Optimistic (320+ pts):** Leclerc pole + win (35 boosted points), multiple premium drivers score 15-25 points each, McLaren constructor achieves perfect weekend with fastest pitstop bonus. Gap to Limited Battery shrinks materially.
+**Optimistic (300+ pts):** Perfect qualifying execution with Leclerc pole, Mercedes 1-2, all Limitless picks in Q3. Safety car creates strategic opportunities for position changes.
 
 ### Key Variables
-- **Qualifying weather conditions** — any rain in qualifying dramatically changes grid formation and race dynamics
-- **Safety car deployment** — Monaco averages 1-2 safety cars which can shuffle positions and create strategic opportunities
-- **Pitstop execution** — tight pit lane makes sub-2.0s stops more valuable and difficult to achieve
-- **First lap incidents** — narrow track amplifies any contact, DNF risk despite conservative racing
-- **Active aero effectiveness** — whether 2026 regulations create any additional overtaking beyond historical baseline
+- Qualifying weather conditions (dry = predictable, damp = chaos)
+- Safety car timing (Monaco's primary overtaking catalyst)
+- Pitstop execution by Mercedes and McLaren teams
+- Track evolution throughout practice (late Q3 improvements decisive)
+- Crash risk in practice sessions (damages grid positions)
 
 ---
 
 ## Post-Race Action Items
 
 ### Immediate (Sunday Evening)
-1. Confirm Limitless chip scoring performance vs standard lineup projection (validate chip ROI)
-2. Record actual overtake count vs <15 historical baseline (track 2026 regulation impact)  
-3. Note Mercedes vs McLaren constructor scoring differential for future premium constructor decisions
-4. Log Leclerc 2X boost effectiveness for ongoing premium driver 2X strategy
+1. Log actual overtake count vs. historical baseline (<15 target)
+2. Record which Limitless selections delivered vs. underperformed
+3. Note Mercedes vs. Ferrari qualifying pace differential for Barcelona planning
+4. Track price change predictions for your held assets (Haas -$0.6M confirmed?)
 
 ### Monday Analysis
-1. Calculate exact gap movement vs Limited Battery and validate defensive objective achievement
-2. Update driver price projections based on Monaco performance for Barcelona Wildcard planning
-3. Assess whether Mercedes PU advantage translates to street circuits or remains limited to permanent circuits
-4. Review pitstop bonus distribution and constructor ranking adjustments for Phase 2 planning
+1. Compare Limited Battery's Monaco strategy and points scored
+2. Evaluate whether gap narrowed, held steady, or grew despite Limitless
+3. Finalize Barcelona Wildcard target lineup based on Monaco pace data
+4. Update R7-R12 chip sequence if Monaco results alter trajectory
 
-### Transfer Window (Before R7 Barcelona Lock)
-- Finalize Wildcard deployment structure based on post-Monaco budget and price movements
-- Confirm Antonelli acquisition target pricing and alternative premium driver options
-- Plan 3-4 asset restructure sequence to maximize Wildcard efficiency without over-engineering
-- Set 2X boost target for Barcelona (likely remains Leclerc through Wildcard transition)
+### Transfer Window (Before Barcelona Lock)
+- Monitor Antonelli vs. Russell practice pace for Wildcard decision
+- Track Ferrari constructor price movement for potential upgrade
+- Assess whether Haas price drop creates value or signals selling opportunity
+- Confirm no late grid penalties affect Barcelona Wildcard targets
 
 ---
 
 ## Success Metrics
 
-**Primary Goal:** Deploy Limitless successfully and prevent gap expansion beyond 250 points before Barcelona Wildcard.
+**Primary Goal:** Use Limitless deployment to hold gap vs. Limited Battery under 250 points entering Barcelona Wildcard week.
 
 **Secondary Goals:**
-- Leclerc 2X boost delivers 25+ boosted points through qualifying performance
-- Mercedes constructor provides 80+ points with clean pitstop execution
-- Banking both transfers preserves maximum Wildcard flexibility
-- Validate Monaco as qualifying-dependent circuit despite 2026 regulation changes
+- Leclerc 2X boost delivers 50+ effective points (25+ base score doubled)
+- Mercedes constructor maintains 80+ points to justify the upgrade cost
+- Gather decisive pace intelligence for Barcelona Wildcard driver selection
+- Preserve transfer budget for next week's major restructuring
 
-**Avoid:** Overthinking lineup changes in a Limitless weekend or taking unnecessary transfer hits before the crucial Barcelona restructure.
+**Avoid:** Saving Limitless for a "better" weekend. Monaco's low-overtake profile makes this the season's best defensive chip deployment opportunity.
 
 ---
 
-*Next Brief: Round 7 Spanish GP Barcelona (No Sprint) — Wildcard deployment weekend for premium ceiling acquisition and structural gap closure offensive.*
-
-Looking at the existing Tuesday brief for Monaco GP, I need to check if anything has changed since Tuesday (practice results, penalties, driver injuries, weather updates, news).
-
-Based on the knowledge base and current information, I don't see any specific changes documented since the Tuesday brief was created. The brief mentions checking for practice results, penalties, weather updates, etc., but no actual changes are recorded in the data files.
-
-Without access to live practice results, current weather forecasts, or recent F1 news updates since Tuesday, I cannot identify specific changes that have occurred.
-
-NO_CHANGES
+*Next Brief: Round 7 Barcelona GP (Wildcard deployment) — Major team restructuring weekend to install premium ceiling and begin Phase 2 transition*
