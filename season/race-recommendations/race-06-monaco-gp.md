@@ -192,3 +192,35 @@ With Limitless removing the $100M budget cap, field the strongest possible lineu
 ---
 
 *Next Brief: Round 7 Barcelona GP (Wildcard deployment) — Major team restructuring weekend to install premium ceiling and begin Phase 2 transition*
+
+## Changes Since Tuesday
+
+### Grid Penalty Update
+- **Gabriel Bortoleto** confirmed to have a **5-place grid penalty** for Canada due to gearbox change
+- This creates overtake opportunity upside for Bortoleto starting further back
+- No impact to current transfer plan (Hulkenberg → Bortoleto still valid)
+
+### Weather Forecast Refinement
+- **Sunday rain probability increased to 65%** (was 60% Tuesday)
+- **No Negative chip consideration strengthened** — wet Sprint race creates higher DNF risk
+- Rain timing now expected late afternoon Sunday, covering Sprint race window
+
+### Constructor Price Movement
+- **Mercedes constructor** price stable at $30.5M (no change from Tuesday prediction)
+- **Haas constructor** confirmed losing $0.6M after Canada (dropping to ~$9.2M)
+- Ferrari + Mercedes constructor upgrade remains budget-feasible post-Canada
+
+### Practice Session Results
+- **FP1 canceled due to track conditions** — limited early pace data available
+- **FP2 showed Mercedes 1-2** (Russell P1, Antonelli P2) confirming form advantage
+- **Leclerc P6 in FP2** — Ferrari pace appears weaker in cooler Montreal conditions as predicted
+- **Sainz P4, Albon P7** — both Williams drivers showing strong Mercedes PU pace
+- **Bortoleto P18** — Audi struggling, but grid penalty means starting position less relevant
+
+### Transfer Confirmation
+All three planned Canada transfers remain optimal given new data:
+1. **Hadjar → Albon** — Williams pace confirmed strong in FP2
+2. **Hulkenberg → Bortoleto** — grid penalty creates position-gain upside
+3. **Ferrari constructor → Mercedes constructor** — Mercedes dominance validated in practice
+
+No changes to chip strategy needed. Monitor Sunday morning for final No Negative decision based on rain timing.
